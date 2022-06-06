@@ -1,0 +1,501 @@
+IdLocalidad,Localidad,Provincia,IdProvincia
+1,"Avellaneda","Buenos Aires",1
+2,"Brandsen","Buenos Aires",1
+3,"Campana","Buenos Aires",1
+4,"Lanus","Buenos Aires",1
+5,"Laprida","Buenos Aires",1
+6,"Comuna 10","Buenos Aires",1
+7,"Capital",Cordoba,2
+9,"Bariloche","Rio Negro",4
+10,"Rosario","Santa Fe",5
+12,"Monteros",Tucuman,6
+16,"Loma Verde","Buenos Aires",1
+17,"Santa Rosa","Buenos Aires",1
+18,Torres,"Buenos Aires",1
+19,"Ruta Sol","Buenos Aires",1
+20,"Jose Melchor Romero","Buenos Aires",1
+21,"Virrey Del Pino","Buenos Aires",1
+22,"Isla Santiago","Buenos Aires",1
+23,Canning,"Buenos Aires",1
+24,"Sin Dato","Sin Dato",9
+25,"El Pescado","Buenos Aires",1
+26,"Alejandro Petion","Buenos Aires",1
+27,Abasto,"Buenos Aires",1
+28,"Los Hornos","Buenos Aires",1
+29,Arana,"Buenos Aires",1
+30,"Marcos Paz","Buenos Aires",1
+31,"9 De Abril","Buenos Aires",1
+32,Moron,"Buenos Aires",1
+33,Pilar,"Buenos Aires",1
+34,"Del Viso","Buenos Aires",1
+35,Manzanares,"Buenos Aires",1
+36,"Santa Teresa","Buenos Aires",1
+37,"Presidente Derqui","Buenos Aires",1
+38,Zelaya,"Buenos Aires",1
+39,"Villa Rosa","Buenos Aires",1
+40,"La Lonja","Buenos Aires",1
+41,Fatima,"Buenos Aires",1
+42,"Villa Astolfi","Buenos Aires",1
+43,"Maquinista Savio","Buenos Aires",1
+44,"Los Cachorros","Buenos Aires",1
+45,Pontevedra,"Buenos Aires",1
+46,Quilmes,"Buenos Aires",1
+47,"Quilmes Oeste","Buenos Aires",1
+48,"San Francisco Solano","Buenos Aires",1
+49,Ezpeleta,"Buenos Aires",1
+50,"Bernal Oeste","Buenos Aires",1
+51,Bernal,"Buenos Aires",1
+52,"Ezpeleta Oeste","Buenos Aires",1
+53,"Villa La Florida","Buenos Aires",1
+54,"Don Bosco","Buenos Aires",1
+55,Berisso,"Buenos Aires",1
+56,"Gregorio De Laferrere","Buenos Aires",1
+57,"Rafael Castillo","Buenos Aires",1
+58,"San Fernando","Buenos Aires",1
+59,Virreyes,"Buenos Aires",1
+60,Victoria,"Buenos Aires",1
+61,"San Isidro","Buenos Aires",1
+62,Beccar,"Buenos Aires",1
+63,Martinez,"Buenos Aires",1
+64,"Boulogne Sur Mer","Buenos Aires",1
+65,Acassuso,"Buenos Aires",1
+66,"Villa Adelina","Buenos Aires",1
+67,"Gonzalez Catan","Buenos Aires",1
+68,"San Vicente","Buenos Aires",1
+69,Guernica,"Buenos Aires",1
+70,"Alejandro Korn","Buenos Aires",1
+71,"Ituzaingo Sur","Buenos Aires",1
+72,"El Palomar","Buenos Aires",1
+73,Ituzaingo,"Buenos Aires",1
+74,Castelar,"Buenos Aires",1
+75,"Ciudad Villa Santos Tesei","Buenos Aires",1
+76,Hurlingham,"Buenos Aires",1
+77,"Villa Sarmiento","Buenos Aires",1
+78,Haedo,"Buenos Aires",1
+79,"William C Morris","Buenos Aires",1
+80,"Villa Gobernador Udaondo","Buenos Aires",1
+81,Trujui,"Buenos Aires",1
+82,Olivos,"Buenos Aires",1
+83,Florida,"Buenos Aires",1
+84,Munro,"Buenos Aires",1
+85,"Florida Oeste","Buenos Aires",1
+86,"Vicente Lopez","Buenos Aires",1
+87,"Villa Martelli","Buenos Aires",1
+88,"La Lucila","Buenos Aires",1
+89,Carapachay,"Buenos Aires",1
+90,"Berazategui Oeste","Buenos Aires",1
+91,"Lanus Este","Buenos Aires",1
+92,"Valentin Alsina","Buenos Aires",1
+93,Gerli,"Buenos Aires",1
+94,"Lanus Oeste","Buenos Aires",1
+95,"Remedios De Escalada De San Martin","Buenos Aires",1
+96,"Monte Chingolo","Buenos Aires",1
+97,"Villa San Carlos","Buenos Aires",1
+98,"Villa Porteña","Buenos Aires",1
+99,"Villa Arguello","Buenos Aires",1
+100,"Villa Zula","Buenos Aires",1
+101,"Villa Nueva","Buenos Aires",1
+102,"Barrio Banco Provincia","Buenos Aires",1
+103,"Villa Progreso","Buenos Aires",1
+104,Ensenada,"Buenos Aires",1
+105,"Dique 1","Buenos Aires",1
+106,"Punta Lara","Buenos Aires",1
+107,"Villa Catella","Buenos Aires",1
+108,"Belen De Escobar","Buenos Aires",1
+109,Tortuguitas,"Buenos Aires",1
+110,Garin,"Buenos Aires",1
+111,"Maquinista F Savio","Buenos Aires",1
+112,"Ingeniero Maschwitz","Buenos Aires",1
+113,Matheu,"Buenos Aires",1
+114,Caseros,"Buenos Aires",1
+115,"Jose Ingenieros","Buenos Aires",1
+116,Ciudadela,"Buenos Aires",1
+117,"Villa Bosch","Buenos Aires",1
+118,"Ciudad Jardin Lomas Del Palomar","Buenos Aires",1
+119,"Santos Lugares","Buenos Aires",1
+120,"Martin Coronado","Buenos Aires",1
+121,"Loma Hermosa","Buenos Aires",1
+122,"11 De Septiembre","Buenos Aires",1
+123,Churruca,"Buenos Aires",1
+124,"Remedios De Escalada","Buenos Aires",1
+125,"El Libertador","Buenos Aires",1
+126,"Villa Raffo","Buenos Aires",1
+127,"Saenz Peña","Buenos Aires",1
+128,"Villa España","Buenos Aires",1
+129,Platanos,"Buenos Aires",1
+130,"Carlos Tomas Sourigues","Buenos Aires",1
+131,Berazategui,"Buenos Aires",1
+132,Ranelagh,"Buenos Aires",1
+133,"Juan Maria Gutierrez","Buenos Aires",1
+134,"Guillermo E Hudson","Buenos Aires",1
+135,"General San Martin","Buenos Aires",1
+136,"Ciudad Villa Ballester","Buenos Aires",1
+137,"Villa Bernardo Monteagudo","Buenos Aires",1
+138,"El Jagüel","Buenos Aires",1
+139,"Villa Coronel Jose M. Zapiola","Buenos Aires",1
+140,Billinghurst,"Buenos Aires",1
+141,"Villa General Tomas Guido","Buenos Aires",1
+142,"Ciudad Jardin Del Libertador","Buenos Aires",1
+143,"Villa Granaderos De San Martin","Buenos Aires",1
+144,"San Andres","Buenos Aires",1
+145,"Villa Juan G. Las Heras","Buenos Aires",1
+146,Sarandi,"Buenos Aires",1
+147,"Monte Grande","Buenos Aires",1
+148,"Jose Maria Ezeiza","Buenos Aires",1
+149,"Tristan Suarez","Buenos Aires",1
+150,"Carlos Spegazzin","Buenos Aires",1
+151,"Luis Guillon","Buenos Aires",1
+152,"La Union","Buenos Aires",1
+153,"Zona Aeropuerto Internacional Ezeiza","Buenos Aires",1
+154,"Maximo Paz","Buenos Aires",1
+155,Glew,"Buenos Aires",1
+156,"Capilla Del Señor","Buenos Aires",1
+157,Pavon,"Buenos Aires",1
+158,"Los Cardales","Buenos Aires",1
+159,"Isidro Casanova","Buenos Aires",1
+160,"Florencio Varela","Buenos Aires",1
+161,"Barrio El Carmen","Buenos Aires",1
+162,"Villa Godoy Cruz","Buenos Aires",1
+163,"Villa Maipu","Buenos Aires",1
+164,"Jose Leon Suarez","Buenos Aires",1
+165,"Barrio Parque General San Martin","Buenos Aires",1
+166,"Villa Chacabuco","Buenos Aires",1
+167,"Villa Juan Martin De Pueyrredon","Buenos Aires",1
+168,"Villa General Eugenio Necochea","Buenos Aires",1
+169,"Villa Marques De Aguado","Buenos Aires",1
+170,"Parque San Lorenzo","Buenos Aires",1
+171,"Villa Libertad","Buenos Aires",1
+172,"Villa Gregoria Matorras","Buenos Aires",1
+173,"Mariano Acosta","Buenos Aires",1
+174,"Mariano Moreno","Buenos Aires",1
+175,"La Reja","Buenos Aires",1
+176,Claypole,"Buenos Aires",1
+177,Merlo,"Buenos Aires",1
+178,Libertad,"Buenos Aires",1
+179,"San Justo","Buenos Aires",1
+180,"Grand Bourg","Buenos Aires",1
+181,"Villa Fiorito","Buenos Aires",1
+182,"Francisco Alvarez","Buenos Aires",1
+183,Longchamps,"Buenos Aires",1
+184,"Don Orione","Buenos Aires",1
+185,Bandfield,"Buenos Aires",1
+186,"Gobernador Julio A Costa","Buenos Aires",1
+187,"San Miguel","Buenos Aires",1
+188,"Villa De Mayo","Buenos Aires",1
+189,"Jose C Paz","Buenos Aires",1
+190,"Los Polvorines","Buenos Aires",1
+191,"Pablo Nogues","Buenos Aires",1
+192,"Bella Vista","Buenos Aires",1
+193,"Campo De Mayo","Buenos Aires",1
+194,"Villa Santa Rosa","Buenos Aires",1
+195,"General Rodriguez","Buenos Aires",1
+196,"Ingeniero Adolfo Sourdeaux","Buenos Aires",1
+197,"Villa Elisa","Buenos Aires",1
+198,"La Plata","Buenos Aires",1
+199,"Angel Etcheverry","Buenos Aires",1
+200,"City Bell","Buenos Aires",1
+201,Gonnet,"Buenos Aires",1
+202,"Villa Elvira","Buenos Aires",1
+203,"La Cumbre","Buenos Aires",1
+204,Tolosa,"Buenos Aires",1
+205,"Arturo Segui","Buenos Aires",1
+206,"Jose Hernandez","Buenos Aires",1
+207,"Lisandro Olmos","Buenos Aires",1
+208,"Barrio Las Quintas","Buenos Aires",1
+209,"Villa Montoro","Buenos Aires",1
+210,"Barrio Gambier","Buenos Aires",1
+211,"Joaquin Gorina","Buenos Aires",1
+212,Adrogue,"Buenos Aires",1
+213,Burzaco,"Buenos Aires",1
+214,"Jose Marmol","Buenos Aires",1
+215,"Ministro Rivadavia","Buenos Aires",1
+216,"San Jose","Buenos Aires",1
+217,"Rafael Calzada","Buenos Aires",1
+218,"Malvinas Argentinas","Buenos Aires",1
+219,Avellaneda,"Buenos Aires",1
+220,Piñeyro,"Buenos Aires",1
+221,"Villa Dominico","Buenos Aires",1
+222,"Dock Sud","Buenos Aires",1
+223,Wilde,"Buenos Aires",1
+224,Crucesita,"Buenos Aires",1
+225,"Reserva Cinturon Ecologico","Buenos Aires",1
+226,"Ciudad Evita","Buenos Aires",1
+227,"Ricardo Rojas","Buenos Aires",1
+228,Campana,"Buenos Aires",1
+229,Muñiz,"Buenos Aires",1
+230,"Cuartel v","Buenos Aires",1
+231,"Villa Vatteone","Buenos Aires",1
+232,"El Cazador","Buenos Aires",1
+233,"Villa San Luis","Buenos Aires",1
+234,Lima,"Buenos Aires",1
+235,Zarate,"Buenos Aires",1
+236,"Barrio Saavedra","Buenos Aires",1
+237,Tigre,"Buenos Aires",1
+238,"Coronel Brandsen","Buenos Aires",1
+239,Cañuelas,"Buenos Aires",1
+240,"San Antonio De Padua","Buenos Aires",1
+241,"Villa Centenario","Buenos Aires",1
+242,"El Pato","Buenos Aires",1
+243,Benavidez,"Buenos Aires",1
+244,"Ingeniero Juan Allan","Buenos Aires",1
+245,"Estanislao Severo Zeballos","Buenos Aires",1
+246,Bosques,"Buenos Aires",1
+247,"Villa Brown","Buenos Aires",1
+248,Lujan,"Buenos Aires",1
+249,"Villa Madero","Buenos Aires",1
+250,"Los Troncos Del Talar","Buenos Aires",1
+251,"General Pacheco","Buenos Aires",1
+252,"El Talar","Buenos Aires",1
+253,"Dique Lujan","Buenos Aires",1
+254,"Rincon De Milberg","Buenos Aires",1
+255,"Don Torcuato Oeste","Buenos Aires",1
+256,"Don Torcuato","Buenos Aires",1
+257,"Lomas De Zamora","Buenos Aires",1
+258,Temperley,"Buenos Aires",1
+259,Llavallol,"Buenos Aires",1
+260,Turdera,"Buenos Aires",1
+261,"Villa Flandria Sur","Buenos Aires",1
+262,"Villa Flandria Norte","Buenos Aires",1
+263,Tapiales,"Buenos Aires",1
+264,"Ramos Mejia","Buenos Aires",1
+265,"La Tablada","Buenos Aires",1
+266,"Villa Luzuriaga","Buenos Aires",1
+267,"Aldo Bonzi","Buenos Aires",1
+268,"L Del Mirador","Buenos Aires",1
+269,"Paso Del Rey","Buenos Aires",1
+270,"Barrio Belgrano","Buenos Aires",1
+271,"Ruta 9 Km 103","Buenos Aires",1
+272,Villars,"Buenos Aires",1
+273,Malagamba,"Buenos Aires",1
+274,"Las Cañas","Buenos Aires",1
+275,"Las Cuatro Esquinas","Buenos Aires",1
+276,"La Pesqueria","Buenos Aires",1
+277,"Gomez De La Vega","Buenos Aires",1
+278,"Cuartel Ii","Buenos Aires",1
+279,Gomez,"Buenos Aires",1
+280,"La Pepita","Buenos Aires",1
+281,Buchanan,"Buenos Aires",1
+282,"El Chaja","Buenos Aires",1
+283,"La Parada","Buenos Aires",1
+284,"Barrio Parque Las Acacias","Buenos Aires",1
+285,"Rio Lujan","Buenos Aires",1
+286,"Barrio Los Pioneros","Buenos Aires",1
+287,"El Morejon","Buenos Aires",1
+288,"Canal Alem Al Guazu","Buenos Aires",1
+289,"Isla Talavera","Buenos Aires",1
+290,Blondeau,"Buenos Aires",1
+291,"Las Palmitas","Buenos Aires",1
+292,"La Leonor","Buenos Aires",1
+293,"Barrio El Taladro","Buenos Aires",1
+294,"Vicente Casares","Buenos Aires",1
+295,"Los Alamos","Buenos Aires",1
+296,"Villa Vissir","Buenos Aires",1
+297,"Estancia La Primavera","Buenos Aires",1
+298,"Colonia La Capilla","Buenos Aires",1
+299,Islas,"Buenos Aires",1
+300,Hornos,"Buenos Aires",1
+301,"El Tatu","Buenos Aires",1
+302,"Las Palmas","Buenos Aires",1
+303,Marre,"Buenos Aires",1
+304,"De Arias","Buenos Aires",1
+305,"La Choza","Buenos Aires",1
+306,"Carlos Keen","Buenos Aires",1
+307,"Cañada De Roca","Buenos Aires",1
+308,"Cuartel Iv","Buenos Aires",1
+309,Alastuey,"Buenos Aires",1
+310,"Hospital Sommer","Buenos Aires",1
+311,"San Martin","Buenos Aires",1
+312,"El Tropezon","Buenos Aires",1
+313,"La Colorada","Buenos Aires",1
+314,"El Martillo","Buenos Aires",1
+315,"Barrio Santa Rosa","Buenos Aires",1
+316,"Alambrado De Fierro","Buenos Aires",1
+317,"Villa Ruiz","Buenos Aires",1
+318,"2º Seccion De Islas","Buenos Aires",1
+319,"3º Seccion De Islas","Buenos Aires",1
+320,"Isla Martin Garcia","Buenos Aires",1
+321,Domselaar,"Buenos Aires",1
+322,Samborombon,"Buenos Aires",1
+323,"El Ombu","Buenos Aires",1
+324,"La Hermosura","Buenos Aires",1
+325,"El Porvenir","Buenos Aires",1
+326,"Diego Gaynor","Buenos Aires",1
+327,"Parada Orlando","Buenos Aires",1
+328,"Acceso A Gobernador Andonaegui","Buenos Aires",1
+329,"Arroyo De La Cruz","Buenos Aires",1
+330,"Ruta 193 Km 28,5","Buenos Aires",1
+331,Etchegoyen,"Buenos Aires",1
+332,"Gobernador Andonaegui","Buenos Aires",1
+333,Poblet,"Buenos Aires",1
+334,"Ignacio Correas","Buenos Aires",1
+335,Sucre,"Buenos Aires",1
+336,Cortines,"Buenos Aires",1
+337,"Open Door","Buenos Aires",1
+338,"Barrio Granaderos","Buenos Aires",1
+339,"Carlos Lemee","Buenos Aires",1
+340,"La Granja","Buenos Aires",1
+341,"La Tapie","Buenos Aires",1
+342,"Los Merinos","Buenos Aires",1
+343,"Lezica Y Torrezuri","Buenos Aires",1
+344,Solis,"Buenos Aires",1
+345,"Los Manueles","Buenos Aires",1
+346,"Campo Arechaval","Buenos Aires",1
+347,"La Lata","Buenos Aires",1
+348,"Estacion La Lata","Buenos Aires",1
+349,Escalada,"Buenos Aires",1
+350,"Capital Federal","Buenos Aires",1
+351,"Villa Los Llanos",Córdoba,2
+352,Cordoba,Córdoba,2
+353,Montecristo,Córdoba,2
+354,"Jardin Arenales",Córdoba,2
+355,"Juarez Celman",Córdoba,2
+357,Mendiolaza,Córdoba,2
+358,Saldan,Córdoba,2
+359,Salsipuedes,Córdoba,2
+360,Malagueño,Córdoba,2
+361,Toledo,Córdoba,2
+362,"La Calera",Córdoba,2
+363,"Rio Ceballos",Córdoba,2
+364,"Villa Allende",Córdoba,2
+365,Unquillo,Córdoba,2
+366,Dumesnil,Córdoba,2
+367,"Potrero Del Estado",Córdoba,2
+368,"Agua De Oro",Córdoba,2
+369,"La Arabia",Córdoba,2
+370,"La Mesada",Córdoba,2
+371,"General Paz",Córdoba,2
+372,"Los Cedros",Córdoba,2
+373,"El Diquecito",Córdoba,2
+374,"Pozo Del Tigre",Córdoba,2
+375,"La Estancita",Córdoba,2
+376,"Colonia Los Algarrobos",Córdoba,2
+377,Socavones,Córdoba,2
+378,"El Manzano",Córdoba,2
+379,"Canteras El Sauce",Córdoba,2
+380,"Santa Elena",Córdoba,2
+381,"Bajo Grande",Córdoba,2
+382,"San Roque",Córdoba,2
+383,"La Corina",Córdoba,2
+384,"Caseros Centro",Córdoba,2
+385,"Kilometro 15",Córdoba,2
+386,"Caseros Este",Córdoba,2
+387,"Est. Tejeda",Córdoba,2
+388,"El Quebrachal",Córdoba,2
+389,"Estacion Colonia Tirolesa",Córdoba,2
+390,"Mi Granja",Córdoba,2
+391,"Colonia Tirolesa",Córdoba,2
+392,"La Arcadia",Córdoba,2
+393,Bouwer,Córdoba,2
+394,"El Gateado",Córdoba,2
+395,"El Vergel",Córdoba,2
+396,"Pajas Blancas",Córdoba,2
+397,"Villa Corazon De Maria",Córdoba,2
+398,"La Invernada","Entre Ríos",11
+399,Charigêe,"Entre Ríos",11
+400,"Primera Seccion De Islas","Entre Ríos",11
+401,"Tercera Seccion De Islas","Entre Ríos",11
+402,"Arroyo Piaggio","Entre Ríos",11
+403,"El Borbollon (Las Heras)",Mendoza,3
+404,"Los Barriales",Mendoza,3
+405,"Coquimbito (Maipu)",Mendoza,3
+406,"Mayor Drummond (Lujan De Cuyo)",Mendoza,3
+407,"Carrodilla (Lujan De Cuyo)",Mendoza,3
+408,"Fray Luis Beltran",Mendoza,3
+409,"Jesus Nazareno (Guaymallen)",Mendoza,3
+410,Perdriel,Mendoza,3
+411,"Rodeo Del Medio",Mendoza,3
+412,"El Sauce (Guaymallen)",Mendoza,3
+413,"Vistalba (Lujan De Cuyo)",Mendoza,3
+414,Agrelo,Mendoza,3
+415,"El Pastal",Mendoza,3
+416,"Chacras De Coria - Incluye Est. Paso De Los Andes",Mendoza,3
+418,"Colonia Segovia",Mendoza,3
+419,"Pedro Molina (Guaymallen)",Mendoza,3
+420,"Luzuriaga (Maipu)",Mendoza,3
+421,Palmira,Mendoza,3
+422,Mendoza,Mendoza,3
+423,Maipu,Mendoza,3
+425,"Lujan De Cuyo",Mendoza,3
+426,"Godoy Cruz",Mendoza,3
+427,"Las Heras",Mendoza,3
+428,"Algarrobal (Las Heras)",Mendoza,3
+429,"El Plumerillo (Las Heras)",Mendoza,3
+430,"Las Tortugas (Godoy Cruz)",Mendoza,3
+431,"Presidente Sarmiento (Godoy Cruz)",Mendoza,3
+432,"Panquehua (Las Heras)",Mendoza,3
+433,"General Gutierrez (Maipu)",Mendoza,3
+434,"Rodeo De La Cruz (Guaymallen)",Mendoza,3
+435,"El Resguardo (Las Heras)",Mendoza,3
+436,"Villa Nueva (Guaymallen)",Mendoza,3
+437,"La Colonia",Mendoza,3
+438,"El Challao (Las Heras)",Mendoza,3
+439,"Capilla Del Rosario (Guaymallen)",Mendoza,3
+440,"Villa Tulumaya",Mendoza,3
+441,"Bermejo: Barrios Santarosa Y Jardin El Sauce (Guaym",Mendoza,3
+442,"San Jose (Guaymallen)",Mendoza,3
+443,"Cienaguita (Las Heras)",Mendoza,3
+444,"Dorrego (Guaymallen)",Mendoza,3
+445,"Buena Nueva (Guaymallen)",Mendoza,3
+446,"Gobernador Benegas (Godoy Cruz)",Mendoza,3
+447,"San Francisco Del Monte (Guaymallen)",Mendoza,3
+448,"San Francisco Del Monte (Godoy Cruz)",Mendoza,3
+449,"El Zapallar (Las Heras)",Mendoza,3
+450,"Nueva Ciudad (Guaymallen)",Mendoza,3
+451,"General Belgrano (Guaymallen)",Mendoza,3
+452,"La Puntilla (Lujan De Cuyo)",Mendoza,3
+453,"Las Cañas (Guaymallen)",Mendoza,3
+454,"Puente De Hierro",Mendoza,3
+455,"El Chical",Mendoza,3
+457,Lunlunta,Mendoza,3
+458,"Las Compuertas",Mendoza,3
+459,Barrancas,Mendoza,3
+460,"Colonia Jara",Mendoza,3
+461,Russell,Mendoza,3
+462,"Isla Grande",Mendoza,3
+463,Montecaseros,Mendoza,3
+464,"Alto Salvador",Mendoza,3
+465,Chapanay,Mendoza,3
+466,"Tres Esquinas",Mendoza,3
+467,Pedregal,Mendoza,3
+468,"Villa Seca",Mendoza,3
+469,"Colonia Irigoyen",Mendoza,3
+470,"El Paraiso",Mendoza,3
+471,"Villa Los Corralitos",Mendoza,3
+472,"La Pega",Mendoza,3
+473,"La Primavera",Mendoza,3
+474,"Kilometro 11 (Guaymallen)",Mendoza,3
+475,"Colonia Bombal",Mendoza,3
+476,"General Ortega",Mendoza,3
+477,"Santa Blanca",Mendoza,3
+478,"Las Violetas",Mendoza,3
+480,"Isla Chica",Mendoza,3
+481,"Junin De Los Andes",Neuquén,13
+482,"San Martin De Los Andes",Neuquén,13
+483,Paimun,Neuquén,13
+484,"San Ignacio",Neuquén,13
+485,Quila-Quina,Neuquén,13
+486,"Confluencia Del Malleo",Neuquén,13
+487,"Atreuco Arriba",Neuquén,13
+488,"Aucapan (Rai)",Neuquén,13
+489,"Pampa Del Malleo",Neuquén,13
+490,"El Salitral",Neuquén,13
+491,"Puente Blanco",Neuquén,13
+492,"Lago Lolog",Neuquén,13
+493,"Costa Del Malleo",Neuquén,13
+494,"Lago Hermoso",Neuquén,13
+495,"Atreuco (Rai)",Neuquén,13
+496,"Estancia Santa Lucia",Neuquén,13
+497,Pilolil,Neuquén,13
+498,"Costa Del Catan Lil",Neuquén,13
+499,"Aucapan Abajo",Neuquén,13
+500,"Nahuel Mapi Abajo",Neuquén,13
+501,"Nahuel Mape Arriba",Neuquén,13
+502,"Trompul (Rai)",Neuquén,13
+503,"Chiquilihuin (Rai)",Neuquén,13
+504,"Arroyo Seco","Santa Fe",5
+505,Alvear,"Santa Fe",5
+506,Ibarlucea,"Santa Fe",5
+507,Soldini,"Santa Fe",5
+508,Ricardone,"Santa Fe",5
+509,"San Lorenzo","Santa Fe",5
+510,Rosario,"Santa Fe",5

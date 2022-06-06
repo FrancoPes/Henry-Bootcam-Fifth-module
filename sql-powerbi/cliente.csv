@@ -1,0 +1,501 @@
+Idcliente,Nombre_y_Apellido,Domicilio,Telefono,Edad,Rango_Etario,idlocalidad,Longitud,Latitud
+1,"Heber Joni Santana","Las Heras Y Bat. 24 De Febrero 4150  Rincon Del Cazador",42-5161,58,"4_De 51 a 60 años",16,-58.82,-34.31
+10,"Jose Adolfo Sarmiento","Segundo Sombra E/Magallanes Y P. Galdo S/N  Santa Rosa",49-7565,58,"4_De 51 a 60 años",17,-58.75,-34.95
+100,"Jose Wilen Sosa","846 E/ 882 Y 883 1212  La Florida",4280-8730,36,"2_De 31 a 40 años",53,-58.30,-34.77
+1000,"Jorge Gualberto Cabrera","San Luis 4016  La Primavera",4280-8110,63,"5_Desde 60 años",47,-58.31,-34.74
+1001,"Gustavo Luis Cabrera","Ing. White E/ Constitucion Y Peron 1147  Victoria",4744-6363,47,"3_De 41 a 50 años",60,-58.54,-34.45
+1002,"Tacuabe Cabrera","A.Pinni E/ Olavarria Y Pringles 5256",4759-9241,29,"1_Hasta 30 años",114,-58.57,-34.62
+1003,"María Cristina Cabrera","Ricardo Rojas 1761  Loma Verde",49-5929,41,"3_De 41 a 50 años",16,-58.85,-34.32
+1004,"Myriam Graciela Caceres","Solari 3475",4697-9341,54,"4_De 51 a 60 años",32,-58.63,-34.68
+1005,"Gerarddo Caffera","52 A E/ 134 Y 135 A S/N  Barrio Maritimo",44-0964,30,"1_Hasta 30 años",134,-58.18,-34.81
+1006,"Daniel Caggiani","28 A E/ 116 A Y 117 A 1698  Barrio Jose Maria Freire",4391-1714,25,"1_Hasta 30 años",90,-58.23,-34.79
+1007,"Cecilia Cairo","Sin Dato",49-3323,18,"1_Hasta 30 años",21,0.00,0.00
+1008,"Mario Alberto Calabuig","Av. Ricardo Balbin (Ex Mitre) 1254",4667-4464,49,"3_De 41 a 50 años",187,-58.71,-34.54
+1009,"Fernando Calloia","San Martin (E/ Huergo Y 25 De Mayo) 3080",4660-1912,28,"1_Hasta 30 años",190,-58.69,-34.50
+101,"Antonio Ruben Sosa","Chiclana E/ Rivadavia Y Alvarez 1019",4251-9704,61,"5_Desde 60 años",54,-58.29,-34.70
+1010,"Maricel Caltieri","Munzon E/ Sordeaux Y Moreno 618",4668-2692,30,"1_Hasta 30 años",192,-58.69,-34.57
+1011,"Roberto Calvo","Compostela Y Girondo S/n",42-2250,47,"3_De 41 a 50 años",189,0.00,-34.52
+1012,"Ricardo Calvo","Gelly Y Obes E/Lavalley Av. Altube 4950",43-6361,32,"2_De 31 a 40 años",189,-58.75,-34.52
+1013,"Ana Maria Calzada","Conesa (E/ Sarmiento Y Vias) S/n",4451-5911,56,"4_De 51 a 60 años",229,-58.71,-34.55
+1014,"Luis Alberto Camacho","Belgrano E/ Paz Y Zubiria 1755",4667-4405,16,"1_Hasta 30 años",187,0.00,-34.55
+1015,"Alberto Manuel Camacho","Tucuman E/ Figueroa Alcorta Misiones 815",4666-5699,46,"3_De 41 a 50 años",192,-58.67,-34.56
+1016,"Zulma Susana Camaran","Maqueda Y La Bruyere S/n",47-3500,18,"1_Hasta 30 años",34,-58.79,-34.46
+1017,"Maria De Los Angeles Camiño","Callao 2742",4465-1638,37,"2_De 31 a 40 años",187,-58.71,-34.54
+1018,"Ruben Dario Camirotti","Rio Negro E/ Bordeaux Y Quirno 556",4668-2693,17,"1_Hasta 30 años",192,-58.68,-34.55
+1019,"Jorge Camors","Pcia. De Buenos Aires 1031  El Chelito",62-1093,56,"4_De 51 a 60 años",109,-58.77,-34.48
+102,"Henry Sosa","Jose Lopez E/ Lebensohn Y Carabelas 342",4251-8937,33,"2_De 31 a 40 años",51,-58.27,-34.71
+1020,"Gianna Maria Campanella","Julian Navarro 2010",4512-3137,17,"1_Hasta 30 años",62,-58.55,-34.47
+1021,"Jorge Campanella","San Martin Y Las Heras",44-2421,52,"4_De 51 a 60 años",238,-58.24,-35.17
+1022,"Julio Cesar Campo","Magdalena Fait-Esq. Castelli -   Las Mandarinas",44-3473,42,"3_De 41 a 50 años",238,-58.25,-35.16
+1023,"Carlos Debelqui Campos","Saenz Peã?A Esq. Pasaje Sarmiento 1275",44-2990,38,"2_De 31 a 40 años",238,-58.23,-35.17
+1024,"Carlos Daniel Camy","Medalla Milagrosa Y Brandsen S/N  La Dolly",44-2818,51,"4_De 51 a 60 años",238,-58.22,-35.16
+1025,"Hector Cancela","Alberti Y La Victoria S/N  Barrio Los Tilos",44-3996,27,"1_Hasta 30 años",238,-58.23,-35.18
+1026,"Ariel Cancela","Mitre E/ San Martin Y Rawson 857",42-8932,17,"1_Hasta 30 años",228,-58.96,-34.16
+1027,"Juan Andres Canessa","Padre Roza 1018",43-9024,36,"2_De 31 a 40 años",228,-58.97,-34.18
+1028,"Fanny Maria Canessa","San Martin 2152  Bo Las Acacias",42-0043,17,"1_Hasta 30 años",228,-58.96,-34.20
+1029,"Rafael Mauricio Canetti","Sivori Y Rivadavia 792",43-9243,61,"5_Desde 60 años",228,-58.96,-34.17
+103,"Yhara Sosa","Alem E/ Avda. Los Quilmes Y Fleming 1545",4251-8968,17,"1_Hasta 30 años",50,-58.30,-34.72
+1030,"Enrique Gilberto Canon","Coletta Y Chiclana S/n",43-7008,37,"2_De 31 a 40 años",228,-58.97,-34.17
+1031,"Haroldo Antonio Canoniero","Berutti Y Dellepiane 75",43-8443,39,"2_De 31 a 40 años",228,-58.96,-34.16
+1032,"Marta Canova","Zavalia 1657  Bo La Josefa",44-1697,19,"1_Hasta 30 años",228,-58.93,-34.20
+1033,"Juan Pedro Cantera","Juan Nardo 425  Otamendi",43-6942,63,"5_Desde 60 años",228,-58.91,-34.23
+1034,"Edgar Fitzgerald Cantero","Granaderos Y Castelli 938  Barrio Villanueva",46-8641,41,"3_De 41 a 50 años",228,-58.96,-34.19
+1035,"Maria Cristina Cantero","Arenales 787",43-8160,52,"4_De 51 a 60 años",228,-58.95,-34.17
+1036,"Liliana Beatriz Capece","25 De Mayo E/ Las Heras Y Balcarce 1290",42-4151,24,"1_Hasta 30 años",228,-58.97,-34.16
+1037,"Fernando Carlos Capote","Barletta E/ Lavezzari Y Cornelli 2190  Barrio Siderca",44-0421,48,"3_De 41 a 50 años",228,-58.94,-34.20
+1038,"Carmelo Ramon Capozzoli","Harrichabalet E/ Verdier Y Grassi 574  Las Praderas",15-52-3315,51,"4_De 51 a 60 años",228,-58.92,-34.25
+1039,"Mariela Raquel Cappetta","Bidegain Y Zarate S/N  Barrio San Cayetano",46-1206,47,"3_De 41 a 50 años",228,-59.00,-34.16
+104,"Liza Rosana Sosa","Desaguadero E/R.Gallegos Y Sgo. Del Es 5180  Barrio Ferroviario",4216-4187,19,"1_Hasta 30 años",49,-58.22,-34.74
+1040,"Teresita Capurro","A. Del Pino 1502  Barrio San Felipe",43-7508,18,"1_Hasta 30 años",228,-58.98,-34.18
+1041,"Raul Guilermo Caraballo","Aguiar 110",44-1965,34,"2_De 31 a 40 años",228,-58.94,-34.21
+1042,"Maria Bettina Caraballo","Arenales Y Del Pino 1202",43-1620,50,"3_De 41 a 50 años",228,-58.95,-34.18
+1043,"Rodolfo Andres Caram","Saavedra 1512  Barrio Dallera",42-3378,35,"2_De 31 a 40 años",228,-58.95,-34.19
+1044,"Carlos Manuel Caram","Giobellini 711  Barrio Lubo",44-4820,59,"4_De 51 a 60 años",228,-58.94,-34.19
+1045,"Grisel Caram","Del Carmen 517",43-2219,27,"1_Hasta 30 años",239,-58.76,-35.05
+1046,"Gonzalo Carambula","Matheu Y Acuã?A S/N",42-1198,42,"3_De 41 a 50 años",239,-58.75,-35.05
+1047,"Marcos Gustavo Carambula","Tucuman Y Gabriela Mistral S/n",43-1276,63,"5_Desde 60 años",239,-58.75,-35.06
+1048,"Alberto Laureano Carames","Ruta 205 Km.58.500 Calle Urquiza S/N  La Garita",43-2364,24,"1_Hasta 30 años",239,-58.72,-35.02
+1049,"Natalia Carbajal","Hipolito Yrigoyen 1142",43-0562,17,"1_Hasta 30 años",239,-58.76,-35.05
+105,"Luis Eduardo Sosa","826 E/ 897 Y 898 2540",4212-2532,32,"2_De 31 a 40 años",48,-58.32,-34.77
+1050,"Lucía María Carballa","Corrientes E/ Cordoba Y Sta. Fe S/N  La Torre",45-0003,46,"3_De 41 a 50 años",154,-58.61,-34.94
+1051,"Felipe Carballo","San Juan E/ Paraguay Y Chile 2450  Barrio Los Aromos",43-2628,17,"1_Hasta 30 años",239,-58.74,-35.04
+1052,"Robin Enrique Carballo","Moreno 317",43-2680,29,"1_Hasta 30 años",239,-58.76,-35.06
+1053,"Adriana Cardani","Estrada Esq. Sarmiento S/N  Villa Adriana",15-02-1026,28,"1_Hasta 30 años",239,-58.76,-35.05
+1054,"Ruben Nelson Carril","San Juan 590  Las Piã?As",463-9286,41,"3_De 41 a 50 años",174,-58.82,-34.67
+1055,"Jose Luis Cassanello","Av.Rivadavia E/ Acuã?A Y Basavilbaso 467",42-2249,56,"4_De 51 a 60 años",239,-58.76,-35.06
+1056,"Nora Maria Castro","Monte Guarani 2092  Barrio Montana",4389-0765,39,"2_De 31 a 40 años",138,-58.50,-34.81
+1057,"Humberto Castro","San Juan 1150",483-4965,15,"1_Hasta 30 años",240,-58.71,-34.66
+1058,"Raul Bolivar Castro","Suipacha (Esq. Darragueira) 2895",4660-0875,43,"3_De 41 a 50 años",190,-58.69,-34.51
+1059,"Luis Maria Castro","Conesa Y Padre Ustarroz 880  Barrio Mitre",4465-4884,56,"4_De 51 a 60 años",187,-58.73,-34.57
+106,"Francisco Waldemar Sosa","874 4983  La Florida",4280-8047,38,"2_De 31 a 40 años",53,-58.29,-34.77
+1060,"Margarita Castro","Boqueron E/ Andrade Y Rio Negro 175",4668-2622,34,"2_De 31 a 40 años",192,-58.67,-34.56
+1061,"Victor  Hugo Castro","Oliden E/ Matheu Y Castelli 1141",44-5937,39,"2_De 31 a 40 años",189,-58.75,-34.50
+1062,"Jose Carlos Castro","Juan Pujol E/ Artigas Y Amenabar 2435",4456-0967,26,"1_Hasta 30 años",188,-58.68,-34.50
+1063,"Monica Castro","Malabia (Esq. San Pedro) 3890  Bâº Guadalupe",4463-6036,47,"3_De 41 a 50 años",188,-58.67,-34.51
+1064,"Jorge Castro","Las Delicias E/Algel Gallardo Y Pintos 3579  Barrio Don Alfonso",4455-9544,43,"3_De 41 a 50 años",187,-58.75,-34.55
+1065,"Alicia Castro","Palpa 2015  Barrio Rodriguez",41-3063,59,"4_De 51 a 60 años",180,-58.72,-34.48
+1066,"Pablo Castro","Ing. Pablo Nogues 3061",48-0379,50,"3_De 41 a 50 años",191,-58.70,-34.49
+1067,"Mario Eduardo Castro","Los Caldenes 1385",62-0753,59,"4_De 51 a 60 años",109,-58.76,-34.46
+1068,"Alejandro Castroman","Jorge Novak 1019  Barrio G. A Costa",4287-6654,31,"2_De 31 a 40 años",160,-58.29,-34.81
+1069,"Maria Alejandra Casullo","Lavalle Y Brasil S/n",4386-1511,61,"5_Desde 60 años",149,-58.58,-34.89
+107,"Anahi Sosa","Minuto E/Ecuador Y Baradero 4703  Villa Augusta",4226-5259,27,"1_Hasta 30 años",52,-58.25,-34.75
+1070,"Edison Humberto Casulo","Matienzo Y Dean Funes 687  Barrio Vista Linda",4234-3311,49,"3_De 41 a 50 años",149,-58.55,-34.89
+1071,"Anibal Cataldo","Racedo 400  Barrio Alla En El Sur",4295-3534,46,"3_De 41 a 50 años",148,-58.51,-34.85
+1072,"Jorge Antonio Catenaccio","849 E/ 882 Y 883 1250  Barrio La Florida",4250-4424,17,"1_Hasta 30 años",53,-58.29,-34.77
+1073,"Maria Elizabeth Cateura","Manuela Pedraza Y Soldado Britos 1451  Barrio 2 De Abril",46933355/56,34,"2_De 31 a 40 años",185,-58.47,-34.74
+1074,"German Federico Cavallero","Colombres 1745  Bâº San Miguel",44-3786,55,"4_De 51 a 60 años",112,-58.73,-34.38
+1075,"Eduardo Nelson Cavalli","Vuelta De Rocha Y Acassuso S/N  Barrio El Porvenir",4698-1909,58,"4_De 51 a 60 años",57,-58.62,-34.73
+1076,"Maria Noel Cayafa","Belloso Y Quesada S/N  Bâº Ferrari",499-3081,58,"4_De 51 a 60 años",173,-58.78,-34.70
+1077,"Laura Cayon","Juan Zamora Y Vernet 281",4248-9283,53,"4_De 51 a 60 años",241,-34.73,-58.42
+1078,"Daniel Cazet","Fragueiro Y Cuenca S/N  Barrio El Pino",49-4211,27,"1_Hasta 30 años",21,-58.66,-34.87
+1079,"Beatriz Aida Cazzaniga","Donizzetti Y Victor Hugo S/N  Barrio Independencia",45-3206,58,"4_De 51 a 60 años",67,-58.60,-34.77
+108,"Selson Sosa","844 2288",4212-2771,58,"4_De 51 a 60 años",48,-58.31,-34.78
+1080,"Estrellita Celia Cea","Rivadavia E/ Managua Y Quito 650  Barrio Parque Pellegrini",449-4855,47,"3_De 41 a 50 años",39,-58.89,-34.43
+1081,"Adriana Ceccone","Aconcagua Y Mercedario 42  Barrio El Bosque",442-1499,46,"3_De 41 a 50 años",33,-58.92,-34.46
+1082,"Sin Dato","Beliera Y Ruta 26 Km 5 S/n",48-3120,21,"1_Hasta 30 años",43,-58.78,-34.41
+1083,"Angel Cedres","Gran Canaria E/ Budapest Y Bonn 136  Santa Rosa",4237-9079,54,"4_De 51 a 60 años",194,-58.29,-34.83
+1084,"Alba Beatriz Centurion","616/Y/514 S/N  El Pato",449-3555,42,"3_De 41 a 50 años",242,-58.18,-34.88
+1085,"Naria Lourdes Cerchi","Dardo Rocha E/17 Y 18 S/N  Barrio C.G.T.",4261-4850,31,"2_De 31 a 40 años",90,-58.24,-34.78
+1086,"Graciela Ivonne Ceriani","126 Esq. 29 Y 30 2280  El Carmen",486-1226,16,"1_Hasta 30 años",161,57.89,34.93
+1087,"Elena Cernuschi","Condarco E/ Venezuela Y Costa Rica 5350  Bo.La Esperanza Grande",4210-5504,20,"1_Hasta 30 años",52,-58.26,-34.76
+1088,"Ramiro Cerruti","1 E/122 Y 123 S/N  Barrio 1âº De Mayo",4226-8813,37,"2_De 31 a 40 años",90,-58.24,-34.76
+1089,"Rodrigo Lorenzo Cerrutti","Hernandarias E/ Quito Y R. De Janei S/N  Santa Marta",4234-1580,61,"5_Desde 60 años",149,-58.57,-34.91
+109,"Gregorio Fregoli Sosa","E. Del Campo Y Brasil S/n",4210-0221,41,"3_De 41 a 50 años",52,-58.27,-34.76
+1090,"Gustavo Cersosimo","Orfila Rico Y Morganti   Barrio P. Corimayo",4299-9991,27,"1_Hasta 30 años",213,-58.37,-34.83
+1091,"Ana Maria Cerutti","126 E/133 Y 135 S/n",47-5309,39,"2_De 31 a 40 años",69,-58.37,-34.90
+1092,"Yanet Lilian Cervi","Las Hortensias 1675  Los Cachorros",47-7010,49,"3_De 41 a 50 años",44,-58.78,-34.44
+1093,"Ernesto Cesar","Posadas 319",4220-9757/69,62,"5_Desde 60 años",91,-58.35,-34.71
+1094,"Juanpablo Cesio","Las Tropas Y Vernet",4267-0975,49,"3_De 41 a 50 años",185,-58.44,-34.74
+1095,"José María Cestau","Mitre Y Capdevilla S/N  Barrio Pinazo",47-6074/6368,43,"3_De 41 a 50 años",34,-58.82,-34.45
+1096,"Manuel Alberto Chabalgoity","Colon Y Villegas S/N  Barrio Policial",4263-4012,52,"4_De 51 a 60 años",147,-34.85,-58.45
+1097,"Iriomar Chagas","Av. Maipu 720",4295-9009,16,"1_Hasta 30 años",23,-58.51,-34.87
+1098,"Rene Chagas","Sin Dato",48-2836,59,"4_De 51 a 60 años",243,0.00,0.00
+1099,"Pablo Chalar","Arredondo E/ Yapeyu Y Lynch S/n",4217-1960,34,"2_De 31 a 40 años",223,-58.32,-34.72
+11,"Ana Sarmiento","Los Robles E/ Juana De Arco Y Castex S/N  Rural",5729-3561,18,"1_Hasta 30 años",23,-58.51,-34.91
+110,"Maria Laura Sotelo","Juan B. Justo E/ 335 Y Andrade 3402",4280-9166,18,"1_Hasta 30 años",47,-58.28,-34.75
+1100,"Julio Cesar Chalar","Sin Dato",,27,"1_Hasta 30 años",185,0.00,0.00
+1101,"Maria Rosa Chamachourdjian","459 E/ 408 Y 409 S/n",44-2994,17,"1_Hasta 30 años",133,-58.19,-34.83
+1102,"Luis Dante Charles","Chacabuco Y 25 De Mayo 80",4355-1170,42,"3_De 41 a 50 años",160,-58.28,-34.80
+1103,"Silvana Mabel Charlone","Sallares E/ Salta Y Jujuy 1800  Zeballos",4355-4462,42,"3_De 41 a 50 años",160,-58.26,-34.81
+1104,"Osvaldo Rafael Chavasco","Avda.Eva Peron E/ Oroã?O Y Coimbres 6070  Villa Monica",4274-1715,18,"1_Hasta 30 años",231,-58.28,-34.84
+1105,"Jose Enrique Chavat","Rosario 1178  Pista De Trote",4255-6865,48,"3_De 41 a 50 años",231,-58.26,-34.82
+1106,"Lidia Margot Chaves","Salta Y J.Ingenieros 1148  La Carolina",49-3505,22,"1_Hasta 30 años",244,-58.19,-34.87
+1107,"Agustina Estela Chaves","Sarratea Y Los Treboles 1260  San Nicolas",4287-6937,51,"4_De 51 a 60 años",160,-58.29,-34.80
+1108,"Jorge Omar Chediak","Las Americas 453  Barrio Martin Fierro",4355-7669,24,"1_Hasta 30 años",160,-58.27,-34.78
+1109,"Zoilo Javier Cheveste","Av. San Martin 1733",4355-0783,51,"4_De 51 a 60 años",160,-58.28,-34.79
+111,"Gilberto Homero Soto","Otamendi E/ Entre Rios Y Pellegrini 603",4280-8736,52,"4_De 51 a 60 años",47,-58.30,-34.74
+1110,"Jacqueline Rita Chico","Neuquen E/Sucre Y Garibaldi 350  Villa Del Plata",4355-3496,18,"1_Hasta 30 años",160,-58.26,-34.80
+1111,"Ricardo Alexis Chiecchi","San Jose Y Gurruchaga 1374  Don Orione",4275-1920,23,"1_Hasta 30 años",245,-58.24,-34.81
+1112,"Antonio Chiesa","Hugo Wast E/ Becquer Y Saavedra 502  Bosques",4221-5949,47,"3_De 41 a 50 años",246,-34.82,-58.23
+1113,"Sergio Chiesa","Andorra 137  Santa Rosa",4355-1403,51,"4_De 51 a 60 años",194,-58.28,-34.82
+1114,"Rubens Chiribao","L. Villar E/ A. Diaz Y Bengochea 3580  La Esmeralda",4355-4362,48,"3_De 41 a 50 años",160,-58.28,-34.81
+1115,"Juan A. Chiruchi","Larrea E/ G. Nacional Y P. Moran 1218  La Sirena",4355-2886,23,"1_Hasta 30 años",160,-34.78,-58.29
+1116,"Jorge Eduardo Christy","Pasos De Los Libres Y Curie 2299  Monte Cudine",4255-9265,54,"4_De 51 a 60 años",160,-58.27,-34.80
+1117,"Luis Agustin Ciganda","Cordoba Y Esq. Dorrego S/n",43-8600,36,"2_De 31 a 40 años",235,-59.03,-34.11
+1118,"Cesare Gabriel Cingia","Homero E/ Cafayate Y Caã?Uelas 3870  Villa Albertina",4273-2637,53,"4_De 51 a 60 años",185,-58.47,-34.73
+1119,"Luis Milton Cisneros","1201 E / 1288 Y 1288 A 1201",49-3771,40,"2_De 31 a 40 años",244,-34.87,-58.19
+112,"Enrique Soto","865 2737",4213-2109,40,"2_De 31 a 40 años",48,-58.31,-34.79
+1120,"Adriana Maria Cittadino","Gorriti Y Horqueta Cura 258  San Emilio",4210-0728,29,"1_Hasta 30 años",160,-58.28,-34.78
+1121,"Juan Jose Cladera","Navarro Esq Calingasta 1075  Souriguez",4221-6740,60,"4_De 51 a 60 años",246,-58.22,-34.81
+1122,"Jose Clastornik","Rio Bermejo 1110  Barrio Mayol",4355-4214,49,"3_De 41 a 50 años",231,-58.27,-34.83
+1123,"Hector Anibal Cocaro","Concordia Y Olavarria 1262  El Rocio",4221-2444,49,"3_De 41 a 50 años",246,-34.83,-58.23
+1124,"Hugo Coelho","515 3303  San Jorge",4355-3102,31,"2_De 31 a 40 años",186,-58.29,-34.82
+1125,"Heber Antonio Coello","Dardo Rocha 1095  Barrio Pte. Sarmiento",4237-6099/7,46,"3_De 41 a 50 años",160,-58.27,-34.79
+1126,"Adriana Coello","Ruta Pcial. 36 Km.31,500 Barrio Pte Pe S/N  Bosques",11-3806-6358,22,"1_Hasta 30 años",246,-58.22,-34.83
+1127,"Heber Antonio Coello","Los Laureles E/ Zorzal Y Cardenal 2306  Barrio Las Malvinas",4268-4000,56,"4_De 51 a 60 años",186,-58.33,-34.80
+1128,"Walter Alex Cofone","Ciudadela Esq. Olivos 1105  Carolina Ii",45-4886,49,"3_De 41 a 50 años",244,-58.20,-34.82
+1129,"Osvaldo Coitiño","La Argentina Y V. De La Plaza 589  Fcio. Varela",4255-7337,64,"5_Desde 60 años",160,-58.28,-34.79
+113,"Pedro Alberto Soust","Condarco Y Sarratea 2711",4280-8705,31,"2_De 31 a 40 años",47,-58.27,-34.74
+1130,"Jorge Colacce","Baradero E/ Delgado Y Bogota 2402  Barrio Sant0 Tomas",4275-3422,56,"4_De 51 a 60 años",160,-58.24,-34.80
+1131,"Edgar Dionisio Collazo","Brandsen Y La Esmeralda S/N  Bosques",4221-4816,23,"1_Hasta 30 años",246,-58.22,-34.83
+1132,"Marcia Leonora Collazo","1209 E/ 1274 Y 1276 S/N  Barrio Parque Ing Allan",49-3581,32,"2_De 31 a 40 años",244,-58.19,-34.86
+1133,"Jose Enrique Colman","Sin Dato",4274-7901,24,"1_Hasta 30 años",247,0.00,0.00
+1134,"Carlos Vicente Colom","Sin Dato",4255-6766,62,"5_Desde 60 años",160,0.00,0.00
+1135,"Alberto Ruben Conde","D'anuncio Y L. De La Torre 772  Bosques",4221-5150,23,"1_Hasta 30 años",246,-58.23,-34.81
+1136,"Carlos Roberto Conde","Perdriel E/ D.Funes Y M.De Fallas 499  Santa Ana",4213-9097,65,"5_Desde 60 años",246,-58.24,-34.83
+1137,"Olga Elena Condenanza","Pilar 1601  Villa Angelica",4287-6229,38,"2_De 31 a 40 años",160,-58.26,-34.79
+1138,"Karl Frederick Consolandich","Sin Dato",4274-4075,31,"2_De 31 a 40 años",194,0.00,0.00
+1139,"Juan Carlos Contarin",".Leopoldo Herrera Y Juan C.Varela 435  Barrio La Rotonda",49-3700,27,"1_Hasta 30 años",244,-58.21,-34.84
+114,"Carlos Maria Souto","898 E/863 Y 864 6351",4213-4834,20,"1_Hasta 30 años",48,-58.31,-34.79
+1140,"Pablo Giovani Conti","Roma E Inglaterra Y Holanda 664  Villa Monica",4274-6904,25,"1_Hasta 30 años",194,-58.28,-34.84
+1141,"Alberto Luis Conti","Palomas Y Algarrobo S/N  Barrio Lujan",4268-3713,31,"2_De 31 a 40 años",186,-58.31,-34.81
+1142,"Guzman Contreras","1280 Esq.1213 699  Bo.El Parque",49-3571,16,"1_Hasta 30 años",244,-58.19,-34.86
+1143,"Oscar Mario Coppola","Rio Bermejo 1839  Villa Monica",4274-1335,19,"1_Hasta 30 años",231,-58.27,-34.83
+1144,"Doreley Lilián Corbo","San Pablo 1791  Curva De Chavez",4274-1314,35,"2_De 31 a 40 años",231,-58.26,-34.84
+1145,"Daniel Jacinto Corbo","56 926  San Nicolas",4355-5428,52,"4_De 51 a 60 años",160,-58.29,-34.80
+1146,"Luz Marina Corbo","552 E/ 519 Y 521 1022  Gdor Julio Costa",4237-9060,40,"2_De 31 a 40 años",186,-58.30,-34.82
+1147,"Nery Mauro Corbo","Oncativo E/ Ibera Y Brochero 2691  Barrio Hudson",4213-9265,28,"1_Hasta 30 años",246,-34.84,-58.23
+1148,"Washington Cordatti","Ituzaingo Y Alem 2704  P. Casa Zeballos",4255-8781,54,"4_De 51 a 60 años",160,-34.80,-58.27
+1149,"Mario Eduardo Cordoba","Begonia Y Monteverde Y Calle A S/N  Barrio Malvinas Ii",4213-0794,21,"1_Hasta 30 años",186,-58.32,-34.80
+115,"Rodolfo Ernesto Souto","190 Y Liniers 988",4270-9741,41,"3_De 41 a 50 años",50,-58.33,-34.74
+1150,"Paola Cordone","V. De La Plaza E/ Spano Y Lucena 263",4287-5847,27,"1_Hasta 30 años",160,-34.78,-58.29
+1151,"Alba Maria Corral","Maipu 1245  Bo.Chacabuco",4255-1586,58,"4_De 51 a 60 años",160,-58.29,-34.81
+1152,"Nanci Amanda Corrales","Jose Hernandez 924  Bosques",4221-6007,45,"3_De 41 a 50 años",246,-58.23,-34.83
+1153,"Udison Correa","Sin Dato",4237-9095,34,"2_De 31 a 40 años",186,0.00,0.00
+1154,"Darwin Carlos Correa","Av. Lujan Y 907 A 1524  Bosques",4213-9457,22,"1_Hasta 30 años",246,-58.24,-34.84
+1155,"Humberto Correa","San Nicolas Y Rosario 3181  San Martin",4255-1729,44,"3_De 41 a 50 años",231,-58.26,-34.82
+1156,"Adriana Correa","Lisandro De La Torre Y S.Sofia 2646  San Rudecindo Bosques",4221-3245,36,"2_De 31 a 40 años",246,-58.21,-34.82
+1157,"Gabriel Correa Luna","El Apero Y Donato Alvares 810  Barrio Don Jose",4213-5628,33,"2_De 31 a 40 años",186,-58.31,-34.80
+1158,"Alejandro Correa Luna","Calle 1323 Y 1348 2435  El Alpino",4274-2832,43,"3_De 41 a 50 años",233,-58.27,-34.87
+1159,"Nair Arlet Cortalezzi","San Pedrito 1208  Sta Lucia",4396-0300,52,"4_De 51 a 60 años",147,-58.47,-34.85
+116,"Antonio A Soutullo","Caseros Esquina La Paz 1586",4251-8969,31,"2_De 31 a 40 años",51,-58.29,-34.70
+1160,"Pablo Cortes","Villarroel Y Campana 1950  Puente Ezcurra",44-1194/4709,17,"1_Hasta 30 años",21,-58.64,-34.80
+1161,"Antonio Corujo","Concordia E/Olavarria Y Bragado 1290  Barrio El Rocio",4221-3676,62,"5_Desde 60 años",246,-58.23,-34.83
+1162,"María Del Carmen Corujo","Guamini E/ Salta Y Av. De Mayo 5348  Las Torres",4693-6312,45,"3_De 41 a 50 años",31,-58.48,-34.76
+1163,"William Corujo","Luis Vernet E/Sansinena Y Oliver 3450  9 De Abril",4272-4016,25,"1_Hasta 30 años",147,-58.49,-34.78
+1164,"Jose Cosentino","Colonia Monte Grande Y Sta.Magdalena S/N  Barrio El Manzanar",4693-3467,23,"1_Hasta 30 años",31,-58.49,-34.77
+1165,"Maria Auxiliadora Cosse","Bach Y Mozart S/N  Loma Grande",480-5840,25,"1_Hasta 30 años",177,-58.76,-34.69
+1166,"Ana Carolina Cosse","Garmendia Y Alem 2281  Bâº Martin Fierro",480-0080,41,"3_De 41 a 50 años",177,-58.75,-34.71
+1167,"Eduardo Mario Costa","Martinez De Nuã?Ez Y Coronda. S/N  Bâº Rivadavia",493-1285,16,"1_Hasta 30 años",45,-58.72,-34.71
+1168,"Nilda Esther Costa","Balladares Y Avda. Union S/n",492-1550,42,"3_De 41 a 50 años",45,-58.70,-34.75
+1169,"Ignacio Costa","Echeverria Y Darwin S/N  Satelite Ii",468-0250,48,"3_De 41 a 50 años",174,-58.78,-34.61
+117,"Julio Souvie","La Rioja E/ Urrestarazu Y Roca A. 1637  La Caã?Ada",4251-9264,18,"1_Hasta 30 años",47,-58.30,-34.73
+1170,"Tabre Roman Costa","Guatemala Y M. Rodriguez 3061  Villa Jardin",4714-7095,46,"3_De 41 a 50 años",60,-58.58,-34.48
+1171,"Renee Costa","Brasil Y Alvear S/N  Barrio Fonavi",48-2659,24,"1_Hasta 30 años",243,-58.69,-34.42
+1172,"Adriana Costa","Dinamarca (E/ Portugal Y Grecia) S/N  Barrio Sol Y Verde",62-2645,64,"5_Desde 60 años",109,-58.81,-34.50
+1173,"Jose Maximino Costa","Juan Xxiii Y Echague S/N  Barrio El Palenque",49-7952,36,"2_De 31 a 40 años",109,-58.78,-34.48
+1174,"Luis Roberto Costa","Santa Teresa Y Los Cipreses 1200  Barrio Carumbe",49-7431,24,"1_Hasta 30 años",34,-58.77,-34.46
+1175,"Alberto Couriel","Cipoletti Y R. Palma 2202",4285-9064,44,"3_De 41 a 50 años",185,-58.46,-34.72
+1176,"Hector Gabriel Courtoisie","Directorio Y Pte. Illia S/N  Barrio Eva Peron",48-4009,35,"2_De 31 a 40 años",68,-58.42,-35.03
+1177,"Juan Cristina","Eva Duarte Y El Criollo 271  Barrio Sra. De La Paz",477-5911,29,"1_Hasta 30 años",30,-58.81,-34.77
+1178,"Ivonne Marie Crocco","Abdala Y Callao   Barrio Juan Jose",485-4191,23,"1_Hasta 30 años",195,-58.94,-34.61
+1179,"Ventura Ofelia Croce","Jose M.De Rosas Y Olimpo",4693-4741,64,"5_Desde 60 años",185,-58.48,-34.73
+118,"Juan Carlos Souza","Calle 187 E/ Montevideo Y Com Franco 609",4270-9740,32,"2_De 31 a 40 años",50,-58.33,-34.74
+1180,"Beatríz Crudeli","Formosa Y Rawson S/n",4389-0718,34,"2_De 31 a 40 años",152,-58.54,-34.85
+1181,"Gustavo Adolfo Cruz","Besares 4290",4698-1318/2593,63,"5_Desde 60 años",56,-58.62,-34.75
+1182,"Danubio Cruz","Lima Y Punch   Bâº Sol Y Verde",,49,"3_De 41 a 50 años",109,-58.79,-34.51
+1183,"Maria De Los Angeles Cruz","Florida E/ Jamaica Y Guatemala 1051  Barrio Sto. Cabral",42-6248,41,"3_De 41 a 50 años",70,-58.38,-34.97
+1184,"Luis Cuadrado","Godoy Cruz Y Rojas S/N  Bâº Libertad",43-2675,42,"3_De 41 a 50 años",239,-58.77,-35.04
+1185,"Fernando Artemio Cuello","Av. Churruca 9711",4769-0964,22,"1_Hasta 30 años",121,-58.61,-34.57
+1186,"Adan Cuello","Puerto Rico Y Florida S/N  Barrio Alte.Brown",487-1937,18,"1_Hasta 30 años",195,-58.90,-34.63
+1187,"Beatriz Cuenca","Solis Entre El Maestro 4251  Barrio Sarmiento n",46-1278,59,"4_De 51 a 60 años",189,-58.77,-34.54
+1188,"Walter Cuevas","Entre Rio Y French 320  Los Altos",42-6512,25,"1_Hasta 30 años",155,-58.36,-34.87
+1189,"Gabriela Cultelli","Larrazabal Y Reano 2879",4267-0538,33,"2_De 31 a 40 años",181,-58.44,-34.70
+119,"Jose Gustavo Spera","Avda. Provincial Y 848 S/n",4213-5216,41,"3_De 41 a 50 años",48,-58.31,-34.78
+1190,"Juan Curbelo","Sin Dato",49-3900,27,"1_Hasta 30 años",21,0.00,0.00
+1191,"Washington Ariel Curbelo","Duran 300  San Ambrosio",4468-2443,22,"1_Hasta 30 años",192,-58.73,-34.59
+1192,"Carina Curci","Berasain 1700  Barrio Vitum Iii",4290-0409,64,"5_Desde 60 años",138,-58.48,-34.84
+1193,"Sergio Carlos Curto","Saborido 1838  Barrio Sarmiento",43-8955,38,"2_De 31 a 40 años",248,-59.11,-34.58
+1194,"Oscar Curutchet","Dungenes Y Gral Rivas   Barrio Los Ceibos",4439-8603,33,"2_De 31 a 40 años",67,-58.62,-34.80
+1195,"Mauricio Cusano","Gamarra Y Santiago Del Estero 8510  Barrio Los Alamos",44-5800,36,"2_De 31 a 40 años",21,58.62,34.81
+1196,"Sergio Ney D`oliveira","Espaã?A 1134",4462-0064,17,"1_Hasta 30 años",249,-58.49,-34.69
+1197,"Homero Hector Da Costa Porto","447 E/ Monteverde Y 400",,62,"5_Desde 60 años",186,-58.32,-34.80
+1198,"Antonio Da Rosa","Los Cardales Y Robles S/N  Bâº Marin",15-40-9340,43,"3_De 41 a 50 años",156,-59.11,-34.28
+1199,"Laura Da Rosa","Cabot Y Solom S/N  Barrio Nicole",15-3635-8418,65,"5_Desde 60 años",21,-58.66,-34.80
+12,"Eduardo Vicente Sarni","Carlos Tejedor 444  El Pinar",4480-0769,52,"4_De 51 a 60 años",24,-58.58,-34.83
+120,"Victor Francisco Spinelli","Juan B.Justo E/ Panama Y Mejico 4851",4210-0093/4541,45,"3_De 41 a 50 años",52,-58.27,-34.77
+1200,"Eber Da Rosa","Einstein Y Portinari S/n",47-3560,30,"1_Hasta 30 años",34,-58.81,-34.44
+1201,"Jose Pablo Da Silva","O.V.Andrade E/ Rio Ii Y Rio Iii 1875",4668-2586,39,"2_De 31 a 40 años",192,-58.66,-34.56
+1202,"Stella Mary Da Silva","Cura Brochero Y Panama S/N  San Lucas",49-8379,40,"2_De 31 a 40 años",109,-58.75,-34.47
+1203,"Cristina Maria Da Silva","Soldados Ex-Combatientes De Malvinas 1700",4660-1369,19,"1_Hasta 30 años",190,-58.71,-34.50
+1204,"Ramon Ismael Da Silva","Ricardo Gã?Iraldes (E Monti Y Colpayo) 405  Bâº Teniente F. Ibaã?Ez",4748-0500,58,"4_De 51 a 60 años",196,-58.65,-34.50
+1205,"Santos Ramon Da Silva","Bacacay (E/ Lourdes Y Ruta 8) 141  El Cruce",44-5935,21,"1_Hasta 30 años",190,-58.73,-34.51
+1206,"Ana Maria Batovsky","Maria Eva D. De Peron Y Gral. Pinto S/N  Barrio Las Acacias",46-3926,15,"1_Hasta 30 años",189,-58.76,-34.54
+1207,"Shirley Yanet Pereira","Rio Diamante E/ Salta Y Mendoza 1671  Barrio Obligado",4668-2594,49,"3_De 41 a 50 años",192,-58.69,-34.58
+1208,"Juan Carlos Dardano","Serrano E/ Suarez Y Tejedor 4535  Barrio Sarmiento",44-5690,33,"2_De 31 a 40 años",189,-58.74,-34.52
+1209,"Pablo Daniel Dalera","Compostela E/ Agrelo Y M. De Oca 1670",46-7546,54,"4_De 51 a 60 años",189,-58.76,-34.50
+121,"Ignacio Vicente Spinola","Emilio Zola E/ Salta Y Bruzzone 4799",4278-8029,36,"2_De 31 a 40 años",49,-58.23,-34.74
+1210,"Martin Ismael Dalgalarrondo","Riglos 4866",,57,"4_De 51 a 60 años",67,-58.62,-34.76
+1211,"Atilio Luis Ney Dall´orso","Rosetti E/ Alberdi Y Ascuenaga 419",4451-5511,58,"4_De 51 a 60 años",229,-58.69,-34.54
+1212,"Susana Dalmas","Pringles E/ Constitucion Y Rodriguez 2650",4465-5170/4920,52,"4_De 51 a 60 años",187,-58.73,-34.55
+1213,"Bruno Rodolfo D'amado","Cochabamba E/ Amenabar Y Whilson 2445",4660-4184,23,"1_Hasta 30 años",188,-58.69,-34.50
+1214,"Anabella Elizabeth Damasco","Cruz Del Sur E/ Aguero Y Espaã?A 1954  La Guarida",4455-9133,43,"3_De 41 a 50 años",187,0.00,-34.57
+1215,"Jose Luis Damonte","El Zonda E/ Irigoin Y Malvinas S/N  Barrio Sarmiento",4455-7759,31,"2_De 31 a 40 años",187,-58.75,-34.56
+1216,"Marella Rossana D'andrea","Alvear 3325  Barrio San Martin",44-4243,61,"5_Desde 60 años",189,-58.77,-34.52
+1217,"Fernando Daniel","Uriarte E/ A. Del Valle Y Tres Marias 251  Barrio Trujuy",4455-0229,47,"3_De 41 a 50 años",187,-58.73,-34.58
+1218,"Fabiana Estela Danta","Arguero E/ Rosetti Y Dorrego 331",4664-5138,38,"2_De 31 a 40 años",187,-58.71,-34.53
+1219,"Jacqueline Dardano","Cdoro. Rivadavia E/ Lourdes Y Aligheri 296  Los Pinos",4660-1175,31,"2_De 31 a 40 años",190,-58.72,-34.52
+122,"Gonzalo Spinola","819 921",4280-8048,29,"1_Hasta 30 años",47,-58.31,-34.75
+1220,"Guillermo Dati","San Jose Y Santa Clara 2600",4667-4452,29,"1_Hasta 30 años",229,-58.72,-34.56
+1221,"Marcelo Dauber","Isabel La Catolica 3715  Santa Brigida",46-3911,36,"2_De 31 a 40 años",187,-58.77,-34.56
+1222,"Silvia Olga Dauria","Juan Ramon Gimenez 3196  Parque Udaondo",47-3570,29,"1_Hasta 30 años",34,-58.81,-34.47
+1223,"Hugo Emilio Davila","Paso Uspallata (E/ Soler Y Bustamante) 1197",48-0320,20,"1_Hasta 30 años",180,-58.73,-34.49
+1224,"Shirley Beatriz De Armas","Rosario E/ Portela Y J. Celman 4490",4748-0946,50,"3_De 41 a 50 años",196,-58.67,-34.50
+1225,"Adriana Miriam De Aziz","Uspallata Esq. Peru 2591  Tierra Altas",49-9230,24,"1_Hasta 30 años",180,-58.73,-34.48
+1226,"Alejandra De Bellis","Pelagio Luna Y Artigas S/n",4660-1019,55,"4_De 51 a 60 años",188,-58.67,-34.49
+1227,"Mauricio De Benedetti","Mariano Boedo E/ Suarez Y San Ignacio 1256  Bâº El Sol",4660-5909,39,"2_De 31 a 40 años",190,-58.71,-34.51
+1228,"Mauro De Camilli","Santa Maria E/Altube Y Colon S/n",44-5718,15,"1_Hasta 30 años",189,-58.79,-34.54
+1229,"Sylvia Judith De Camilli","J.B.Justo Y Granaderos A.Caballo S/n",44-5938,43,"3_De 41 a 50 años",189,-58.74,-34.53
+123,"Enzo Fabian Squillace","Larrea 3922",4278-2233,24,"1_Hasta 30 años",52,-58.25,-34.75
+1230,"Susana Teresa De Feo","Mendoza E/Tres Sargentos Y V.Gonzalez S/n",44-6230,53,"4_De 51 a 60 años",189,-58.73,-34.52
+1231,"Andres Pedro De Grossi","Zinny E/Balboa Y Baez   Barrio El Dorado",43-9478,24,"1_Hasta 30 años",67,-58.64,-34.76
+1232,"Mariela De Guida","Perito Moreno 2048",4660-0943,44,"3_De 41 a 50 años",190,-58.70,-34.51
+1233,"Laura De La Iglesia","Luis Vernet Y Paso De Los Patos 782",48-0570,32,"2_De 31 a 40 años",180,-58.74,-34.49
+1234,"Raul Omar De La Iglesia","Mansilla Y Miranda S/n",44-5904,15,"1_Hasta 30 años",189,-58.76,-34.52
+1235,"Alberto Andres De La Iglesia","Soldado Baigorria E/Brasil Y Panama 3768  Los Angeles",62-0938,15,"1_Hasta 30 años",109,-58.74,-34.46
+1236,"Fernando De La Peña","50 E/ 117 Y 118 S/n",423-6698/99,16,"1_Hasta 30 años",198,-57.94,-34.91
+1237,"Martin Dibarboure","Jose Hernandez 2210",4236-6325,17,"1_Hasta 30 años",24,-58.35,-34.81
+1238,"Pedro Pablo Dighiero","Italia E/ Goyena Y Hualfin 1759  El Gaucho",4238-6033,21,"1_Hasta 30 años",213,-58.37,-34.83
+1239,"Lilián Solange Elhorriburu","Cno. Gral. Belgrano E/213 Y 214 4458  Villa Giambruno",4258-4350,41,"3_De 41 a 50 años",130,-58.22,-34.80
+124,"Geza Stari","Juan Domingo Peron (Ex Donato Alvarez) 190",4246-7415,16,"1_Hasta 30 años",50,-58.34,-34.74
+1240,"Eduardo Elinger","544 Y 619 S/n",49-6188,25,"1_Hasta 30 años",242,-58.16,-34.89
+1241,"Sebastian Erviti","19 De Marzo E/Av.Rivadavia Y Belgrano 50",44-8137,38,"2_De 31 a 40 años",235,-59.02,-34.10
+1242,"Magdalena Espillar","Chacabuco E/Alsina Y De La Torre 478",43-8467,49,"3_De 41 a 50 años",235,-59.02,-34.09
+1243,"Graciela Beatriz Espina","Leandro N.  Alem 799",42-3081,18,"1_Hasta 30 años",235,-59.02,-34.10
+1244,"Nelly Espino","San Martin Esq. Pinto 710",44-8157,27,"1_Hasta 30 años",235,-59.02,-34.10
+1245,"Mariela Espino","Pinto Y Pividal 2700",43-4409,17,"1_Hasta 30 años",235,-59.04,-34.11
+1246,"Gustavo Adrian Espinosa","L.Alem/ L. Y Planes Y Laprida 1734  Villa Fox",42-3588,40,"2_De 31 a 40 años",235,-59.02,-34.11
+1247,"Luis Daniel Espinosa","Av. Anta Y General Paz 191",42-3298,33,"2_De 31 a 40 años",235,-59.03,-34.10
+1248,"Daniel Esposito","Espaã?A Y Gã?Iraldes S/N",44-9964,32,"2_De 31 a 40 años",235,-59.05,-34.09
+1249,"Carlos Maria Esquibel","52.B. Villa Del Pilar. S/n",48-0679,43,"3_De 41 a 50 años",234,-59.20,-34.04
+125,"Julia Elena Staricco","339 E/ 384 Y 385 3550",4250-4320,45,"3_De 41 a 50 años",47,-58.28,-34.76
+1250,"Irma Esquivel","Camino Al Parque Industrial (Cuar.Iii) S/N  Costa Brava",,54,"4_De 51 a 60 años",235,-59.02,-34.09
+1251,"Atilio Esquivel","San Lorenzo Y Bdo. De Irigoyen 195  Villa Florida",44-6470,25,"1_Hasta 30 años",235,-59.01,-34.10
+1252,"Pedro Omar Esteves","Urquiza Esq. Pueyrredon 1302",44-1675,48,"3_De 41 a 50 años",235,-59.04,-34.09
+1253,"Daniel Esteves","Constancio Silvano Y Sarmiento 1155",43-4407,53,"4_De 51 a 60 años",235,-59.04,-34.08
+1254,"Alfredo Estevez","Agustin Alvarez Y Arribeã?Os 1885",44-6477,52,"4_De 51 a 60 años",235,-59.03,-34.12
+1255,"Mauren Beatriz Estevez","Julio A. Costa 1427  Villa Carmencita",44-8156,40,"2_De 31 a 40 años",235,-59.02,-34.11
+1256,"Raul Eduardo Estrade","Ituzaingo Esq. Jose Hernandez S/n",43-8516,26,"1_Hasta 30 años",235,-59.04,-34.11
+1257,"Raul Jose Estramil","Pellegrini Esq. Alvarez 2000",43-8517,47,"3_De 41 a 50 años",235,-59.03,-34.11
+1258,"Jose Luis Etchamendi","Pacheco Esq. Ponce S/n",43-3825,41,"3_De 41 a 50 años",235,-59.02,-34.11
+1259,"Zully Emilia Etcheverry","50 E/ V.Alsina Y Gã?Emes",44-9723,49,"3_De 41 a 50 años",235,-59.06,-34.11
+126,"Alejandro Raul Stipanicic","Boedo E/ 182 Y 183 1253  Villa Gaete",4270-9782,60,"4_De 51 a 60 años",50,-58.32,-34.74
+1260,"Luis Alberto Etcheverry","Teodoro Fels 880",42-3524,59,"4_De 51 a 60 años",235,-59.01,-34.12
+1261,"Sandra Claudia Etcheverry","Rocha E/ Paso Y Castelli 250  Tigre",4749-0019,33,"2_De 31 a 40 años",237,-58.57,-34.43
+1262,"Edgardo Mateo Ettlin","A. El Pollo E/ Liniers Y Estrada S/n",4749-4705,21,"1_Hasta 30 años",237,-58.59,-34.42
+1263,"Graciela Maria Eustachio","Enciso E/ Bordeaux Y Montes De Oca 1409",4749-0863,40,"2_De 31 a 40 años",237,-58.58,-34.42
+1264,"Juan Eustathiou","Independencia Y Volta 1757  Troncos Del Talar",4715-1803,25,"1_Hasta 30 años",250,-58.60,-34.45
+1265,"Rafael Anibal Evia","Guido Spano E/ Irigoyen Y R Falcon S/n",48-2705,38,"2_De 31 a 40 años",243,-58.71,-34.41
+1266,"Alvaro Ezcurra","Emilio Mitre E/ Saldias Y Alsina 201",4749-2792,52,"4_De 51 a 60 años",237,-58.59,-34.42
+1267,"Wilson Ezquerra","Padre Nuestro Y Talan Talan S/N  Enrique Delfino",4740-4504,28,"1_Hasta 30 años",251,-58.65,-34.45
+1268,"Wilson Aparicio Ezquerra","French Y Da Vinci 573",4715-4850,22,"1_Hasta 30 años",250,-58.61,-34.46
+1269,"Juan Fredy Fabre","B. Voluntarios 480",4740-9991,60,"4_De 51 a 60 años",251,-58.63,-34.46
+127,"Ma.Del Carmen --- Stombellini","Monroe E/ Lugones Y Ascasubi 1577",4257-5830,52,"4_De 51 a 60 años",46,-58.23,-34.73
+1270,"Nestor  Luis Fabre","Maria C. Voena E/ Lavalle Y Brasi 1750  Tigre",4736-0013,18,"1_Hasta 30 años",252,-58.65,-34.47
+1271,"Carlos Enrique Facet","9 De Julio E/ Jujuy Y Salta 24",44-0365,47,"3_De 41 a 50 años",253,-58.69,-34.36
+1272,"Jorge Julio Fachola","Ituzaingo E/ San Martin Y Moreno S/n",48-0597,17,"1_Hasta 30 años",243,-58.69,-34.41
+1273,"Gustavo Fagalde","Irala E Isleã?Os 3024  Rincon De Milberg",4731-2934,26,"1_Hasta 30 años",254,-58.60,-34.42
+1274,"Sonia Fagiani","Santa Fe 701",4740-3695,64,"5_Desde 60 años",251,-58.63,-34.46
+1275,"Heriberto Fagundez","Ruta Provincial Nâº 27 Y Cebey 5687  Guazu Nambi",48-4023,28,"1_Hasta 30 años",254,-58.63,-34.40
+1276,"Jose Luis Fagundez","Obarrio E/ Camacua Y Ombu 1135",4587-3021,32,"2_De 31 a 40 años",255,-58.64,-34.49
+1277,"Juan Francisco Faig","J. Rodo Y S. Cabral 3191  Barrio Aviacion",4741-7119,60,"4_De 51 a 60 años",255,-58.61,-34.50
+1278,"Ma. De Los Angeles Fajardo","Francia E/ Stafe Y Arata 1545",4519-6479,41,"3_De 41 a 50 años",255,-58.63,-34.50
+1279,"Maria Cristina Falcomer","C. Larralde 2228  San Jose",4731-2469,61,"5_Desde 60 años",250,-58.59,-34.44
+128,"Cayetano Stopingi","Vicente Lopez E/ Bolivia Y 401 Bis 3980",4278-2219,63,"5_Desde 60 años",52,-58.25,-34.75
+1280,"Jose Luis Falero",".Arevalo E/ Lamadrid Y Campos 3480  Las Tunas",45-2865,17,"1_Hasta 30 años",251,-58.67,-34.45
+1281,"Eduardo Farez","Ecuador 1234  Rincon De Milberg",4731-2030,34,"2_De 31 a 40 años",254,-58.59,-34.41
+1282,"Maria Constanza Farfalla","Laprida Y Belgrano   Barrio Baires",4727-2779,56,"4_De 51 a 60 años",256,-58.62,-34.48
+1283,"Victor Farias","Rio Bamba Y Jean Jaures 1974  El Recreo",4748-0526,64,"5_Desde 60 años",255,-58.62,-34.49
+1284,"Miguel Farias","El Salvador Y Cepeda 805  Barrio Alte.Brown",4740-0641,35,"2_De 31 a 40 años",252,-58.67,-34.48
+1285,"Rodolfo Fariello","Lavalle E/ Necochea Y San Martin 295",4715-1155,20,"1_Hasta 30 años",250,-58.61,-34.46
+1286,"Alejandro Fernadez","Ozanam Esq. El Cano 3419  Bancalari",4727-1471,28,"1_Hasta 30 años",256,-58.61,-34.48
+1287,"Maria Elena Fernadez","Cardenal Fagnano Esq. Blandengues 2384",15-3123-9745,16,"1_Hasta 30 años",227,-58.68,-34.46
+1288,"Ma.Del Rosario Fernandez","Alvear 1430",5245-8109,30,"1_Hasta 30 años",237,-58.58,-34.44
+1289,"Sandro Charles Fernandez","11 De Febrero 1780  La Paloma",4740-0372,36,"2_De 31 a 40 años",252,-58.66,-34.47
+129,"Aurora Silvia Stupino","Chile Esq. Irala 75",4200-3083,45,"3_De 41 a 50 años",47,-58.30,-34.75
+1290,"Osvaldo Rodolfo Fernandez","Pueyrredon Esq. Rio De Janeiro 151  El Zorzal",4740-5778,28,"1_Hasta 30 años",251,-58.65,-34.45
+1291,"Julio Cesar Fernandez","Colon E/ Huergo Y Belgrano 451  Barrio Gutierrez",4741-0249,64,"5_Desde 60 años",255,-58.65,-34.49
+1292,"Horacio Gustavo Fernandez","Sgto.Cabral E/ Chacabuco Y Roldan 1684  Barrio Aviacion",4741-6067,22,"1_Hasta 30 años",255,-58.61,-34.49
+1293,"Iris Nadina Fernandez","Paraguay 1876",4736-1026,55,"4_De 51 a 60 años",252,-58.66,-34.46
+1294,"Eduardo Ruben Fernandez","Brasil Y Conesa S/N  Ojo De Agua",47-2319,42,"3_De 41 a 50 años",243,-58.69,-34.42
+1295,"Javier Fernandez","Avda. Del Golf Y C.Sussini S/n",4748-1019,31,"2_De 31 a 40 años",255,-58.64,-34.50
+1296,"Gladys Fernandez","Echeverria 1151  L. Caballero",4589-7245,63,"5_Desde 60 años",251,-58.64,-34.45
+1297,"Claudia Fabiana Fernandez","Carlos Delcasse Y Richieri S/N  Ricardo Rojas",4740-3306,56,"4_De 51 a 60 años",227,-58.69,-34.46
+1298,"Luis Omar Fernandez","Belgica E/ Lavalleja Y Gelly Obes S/N  Barrio Alte Brown",4726-9315,27,"1_Hasta 30 años",252,-58.66,-34.48
+1299,"Maria Del Rosario Fernandez","San Pablo E Italia 2467  Barrio San Pablo",4726-9277,51,"4_De 51 a 60 años",252,-58.65,-34.48
+13,"Roberto Sartorio","Montevideo (Ruta 15) S/N  Arroyo El Pescado",523-9987,41,"3_De 41 a 50 años",25,-57.76,-34.93
+130,"María Laura Sturla","809 Entre 888 Y889 1890  Barrio La Paz",4212-2381,20,"1_Hasta 30 años",47,-58.32,-34.75
+1300,"Maria Cristina Fernandez","Cruz Del Sur Y Amapola 2058  La Paloma",4726-2370,62,"5_Desde 60 años",252,-58.66,-34.46
+1301,"Gabriela Fernandez","Independencia Esq. General Pacheco 30  El Talar Sur",4726-0202,40,"2_De 31 a 40 años",252,-58.63,-34.47
+1302,"Serrana Fernandez","O'higgins E/ Ituzaingo Y 25 De Mayo S/N  Villa Liniers",4749-9277,47,"3_De 41 a 50 años",254,-58.60,-34.43
+1303,"Eduardo Fernandez","Zapiola 783",4740-1040,52,"4_De 51 a 60 años",251,-58.65,-34.46
+1304,"Javier Hernan Fernandez","Pringles 1300  Los Troncos",4859-2158,55,"4_De 51 a 60 años",250,-58.61,-34.45
+1305,"Juan Carlos Fernandez","Santa Teresita Y San Francisco S/N  Esperanza",48-1050,52,"4_De 51 a 60 años",243,-58.68,-34.42
+1306,"Lina Silvia Fernandez","Sin Dato",,32,"2_De 31 a 40 años",251,0.00,0.00
+1307,"Nelson Milton Fernandez","Jose Ingenieros E Ibera 4606  Bâº 9 De Julio",4848-3383,40,"2_De 31 a 40 años",142,-58.59,-34.54
+1308,"Estela Nora Fernandez","Saenz Y Castro 450",4392-2678,37,"2_De 31 a 40 años",257,-58.40,-34.76
+1309,"Miguel Angel Fernandez","Albarracin (Esq. Eva Peron) 911",4392-2645,51,"4_De 51 a 60 años",258,-58.39,-34.78
+131,"Maria De Lourdes Suarez","2 Y 170 S/n",464-1113,51,"4_De 51 a 60 años",55,57.89,34.86
+1310,"Juan Fernandez","Av.H. Yrigoyen E/Gral. Paz Y Victoria 10361",4231-4690,29,"1_Hasta 30 años",258,-58.41,-34.78
+1311,"Jose Hugo Fernandez","Antartida Argentina Y Santa Catalina S/n",4231-2261,29,"1_Hasta 30 años",259,-58.43,-34.80
+1312,"Eleuterio Fernandez","Sin Dato",,40,"2_De 31 a 40 años",257,0.00,0.00
+1313,"Maria De Los Angeles Fernandez Chavez","Garibaldi E/ San Carlos Y Huergo 1298",4298-3112,50,"3_De 41 a 50 años",258,-58.41,-34.78
+1314,"Adolfo Fernandez De La Vega","Avenida Alsina E/ Peã?A Y Medrano 1052",4242-3774,62,"5_Desde 60 años",185,-58.39,-34.75
+1315,"Jorge Luis Ferrando","Piaggio Y Garona 400",4392-2690,47,"3_De 41 a 50 años",257,-58.41,-34.76
+1316,"Pablo Nicolas Ferrari","Av. H. Yrigoyen E/Colombres Y Loria 9243",4392-2694,35,"2_De 31 a 40 años",257,-58.40,-34.76
+1317,"Walter Ariel Ferrari","Pueyrredon E/ Serrano Y Cabrera 1840",4242-0921,18,"1_Hasta 30 años",185,-34.74,-58.39
+1318,"Aldo Ferrari","Sin Dato",,21,"1_Hasta 30 años",257,0.00,0.00
+1319,"Graciela Azucena Ferrari","Quesada E/ Bello Y Labarden 2610",4273-3265,36,"2_De 31 a 40 años",185,-58.46,-34.72
+132,"Gustavo Enrique Suarez","Calle 820 Y 893   Barrio Dreymar",4212-3268,29,"1_Hasta 30 años",47,-58.32,-34.76
+1320,"Jorge Ferrari","Alte.Brown E/ Sarandi Y Balcerce 2153",4244-0928,53,"4_De 51 a 60 años",257,-34.76,-58.40
+1321,"Luis Alberto Ferrari","Castelli 816",4243-2558,39,"2_De 31 a 40 años",257,-58.41,-34.75
+1322,"Ana Maria Ferraris","Alvear E/ Darragueira Y Vieytes 1715",4202-7751,25,"1_Hasta 30 años",185,-58.40,-34.74
+1323,"Yamandu Ferraz","Elizalde E/Diag.Yaben Y J.M.Rosas 3971  Santa Catalina",4693-4386,39,"2_De 31 a 40 años",185,-58.49,-34.74
+1324,"Ariel Edison Ferre","Mexico Y Barilari S/n",4260-7308,57,"4_De 51 a 60 años",185,-58.35,-34.74
+1325,"Hugo Gabriel Ferreira","Rawson Y Espronceda S/N  Villa Albertina",4285-8161,53,"4_De 51 a 60 años",185,-58.44,-34.74
+1326,"Nelson Ferreira","Gabriela Mistral Y Zamora 312  Villa Centenaro",4202-7563,27,"1_Hasta 30 años",241,-58.42,-34.73
+1327,"Jorge Ferreira","Viamonte E/ Matheu Y Mons. Shell 423",4292-2681/2555,61,"5_Desde 60 años",257,-34.76,-58.39
+1328,"Alvaro Gustavo Ferreira","Jose M Penna Y Boedo 99",4243-4071,59,"4_De 51 a 60 años",257,-58.41,-34.76
+1329,"Nibio Ferreira","Santa Teresa Y Divisoria 90",4214-5475,49,"3_De 41 a 50 años",260,-58.41,-34.80
+133,"Carmen Maria Suarez","Chaco E/ Fleming Y 162 1540",4251-8970,25,"1_Hasta 30 años",50,58.31,34.72
+1330,"Walter Ferreira","Melber Y Wilde 2070",4298-2734,52,"4_De 51 a 60 años",259,-58.43,-34.81
+1331,"Nelson Alfonso Ferreira","Quintana E/ Rincon Y Serrano 266",4242-1976,47,"3_De 41 a 50 años",185,-58.38,-34.74
+1332,"Jose Ferreira","Zorzal E/ Conte Y Kent 2793  Barrio San Jose",4264-5692,63,"5_Desde 60 años",258,-58.36,-34.77
+1333,"Sin Dato","Los Robles E/Jacarandaes Y P.Borrachos 108  Parque Baron",4283-4029,60,"4_De 51 a 60 años",257,-58.43,-34.77
+1334,"Hugo Heber Ferreira","Laprida E/Sucre Y Frias 1650",4282-4180,45,"3_De 41 a 50 años",257,-58.42,-34.76
+1335,"Patricia Ferreira","Boulog. Sur Mer E/Lamadrid Y Pedernera 240",4264-8065,33,"2_De 31 a 40 años",257,-58.37,-34.75
+1336,"Oscar Gerardo Ferreño","Molina Arrotea Y 24 De Mayo 1505",4283-1631,61,"5_Desde 60 años",257,-58.42,-34.77
+1337,"Maria Eugenia Ferrer","Miguel Cane E/ Brito Y Yapeyu 1264",4244-6508,44,"3_De 41 a 50 años",185,-58.38,-34.75
+1338,"Sin Dato","Avenida Hipolito Yrigoyen Y Larroque 7672",4242-0635,23,"1_Hasta 30 años",185,-58.40,-34.74
+1339,"Sebastian Ferrero","Sin Dato",485-0393,65,"5_Desde 60 años",195,0.00,0.00
+134,"Alvaro Jose Suarez","Marinero Lopez E/ Otamendi Y Alsina 575  La Ribera",4257-6084,27,"1_Hasta 30 años",46,-58.23,-34.71
+1340,"Monica Ferrero","Mansilla 269  San Bernardo",484-4507,41,"3_De 41 a 50 años",195,-58.94,-34.62
+1341,"Eduardo Ferres","La Cooperacion S/N  Barrio La Capilla",485-4130,45,"3_De 41 a 50 años",195,-58.96,-34.59
+1342,"Orestes Fiandra","Av. 25 De Mayo 549",485-0477,39,"2_De 31 a 40 años",195,-58.95,-34.61
+1343,"German Fierro","Pte. Peron Y San Martin S/N  Parque Rivadava",487-1866,46,"3_De 41 a 50 años",195,-58.88,-34.62
+1344,"Emma Fierro","Ind.Gomez E/B.Encalada Y Achupallas 302  La Perla",4392-2647,45,"3_De 41 a 50 años",258,-58.38,-34.78
+1345,"Gustavo Angel Figueredo","S.U.P.E. E/ C.Colorados Y 13 De Sept. 1824",4248-5151,21,"1_Hasta 30 años",185,-58.41,-34.74
+1346,"Jorge Enrique Filiberto","Melber (Ex Pobladora) 2050",4298-5016,58,"4_De 51 a 60 años",259,-58.43,-34.81
+1347,"Angel Jose Fiorelli","San Blas 350",4231-1682,61,"5_Desde 60 años",260,-58.42,-34.79
+1348,"Beatriz Anita Fiorentino","Angel Gallardo Esq Juncal 170",4392-2151,17,"1_Hasta 30 años",258,-58.40,-34.77
+1349,"Victor Alejandro Fioroni","Avenida Meeks E/ Garibaldi Y Lavalle 778",4244-0390,35,"2_De 31 a 40 años",258,-58.40,-34.77
+135,"Aurelio Daniel Suarez","891 Y 831 3121",4212-3043,43,"3_De 41 a 50 años",48,-58.31,-34.77
+1350,"Jorge Washington Firpo","Chopin E/ Rivera Y Mascagni 350",4283-3852,58,"4_De 51 a 60 años",257,-58.43,-34.75
+1351,"Francisco Fleitas","Caraza Eduardo E/ Zapata Y Vernet 1760  Villa Centenaro",4202-8752,22,"1_Hasta 30 años",241,-58.43,-34.73
+1352,"Sandra Fleitas","Perito Moreno E/ Correa Y Sta.M.De Oro 260",4392-4061,20,"1_Hasta 30 años",258,-58.39,-34.78
+1353,"Jose Enrique Florencio","Barbieri E/Gordillo Y Alerboni 1605",4273-0119,20,"1_Hasta 30 años",185,-58.43,-34.74
+1354,"Susana Raquel Flores","Aragon E/ Paz Y Avellaneda 950",4298-5108,25,"1_Hasta 30 años",259,-58.42,-34.79
+1355,"Maria Cecilia Flores","Quesada E/ Bello Y Lavarden 2672",4273-5590/6966,51,"4_De 51 a 60 años",185,-58.46,-34.73
+1356,"Hector Alberto Florit","Islandia E/ Morazan Y Filardi   Paraje La Cava",4267-3330,63,"5_Desde 60 años",181,-58.44,-34.72
+1357,"Mariela Silva Fodde","Allemandri E/ Ariã?O Y Zeballos 1501  Villa Galicia",4392-2684,49,"3_De 41 a 50 años",258,-58.38,-34.77
+1358,"Gerardo Fogliacco","Homero E/ Cafayate Y Caã?Uelas 3870  Villa Albertina",4273-8140,40,"2_De 31 a 40 años",185,-58.47,-34.73
+1359,"Gustavo Alejandro Folle","Senillosa Y El Zorzal 2093",4264-7972,38,"2_De 31 a 40 años",258,-58.37,-34.77
+136,"Carlos Suarez","Entre Rios Y Juan B. Justo 2812",4200-3905,18,"1_Hasta 30 años",47,-58.29,-34.74
+1360,"Sin Dato","L.De La Torre E/Gaona E Ingenieros 2264",4283-1479,54,"4_De 51 a 60 años",185,-58.44,-34.75
+1361,"Fernando Daniel Fontan","Sin Dato",,40,"2_De 31 a 40 años",185,0.00,0.00
+1362,"Raul Nocolas Fontes","El Trebol Y Monroe 3785",4260-7213,26,"1_Hasta 30 años",258,-58.35,-34.75
+1363,"Ramon Angel Fonticiella","Muzzilli E/ Estocolmo Y Viena 163",4282-1781,42,"3_De 41 a 50 años",257,-58.43,-34.77
+1364,"Nancy Stella Fontora","Heredia Y Juramento 250",4264-7990,20,"1_Hasta 30 años",258,-58.36,-34.77
+1365,"Stella Maris Forcade","La Madreselva 2550  Cabaã?A Spinola",4264-3621,59,"4_De 51 a 60 años",258,-58.37,-34.76
+1366,"Rafael Formoso","Nestor De La Peã?A E/Husares Y S.Agusti 654",4231-5746,18,"1_Hasta 30 años",259,-58.43,-34.79
+1367,"Maria Josefina Fornaro","Tordo Y Hornero 233",4269-9878,50,"3_De 41 a 50 años",258,-58.35,-34.76
+1368,"Maria Gabriela Fossati","Espronceda E/Puerto Argentino Y Rawson 297  Villa Albertina",4273-4304,30,"1_Hasta 30 años",185,-58.44,-34.74
+1369,"Roberto Francisco Frachia","La Ribera Y Campoamor 2890  I. Budge",4273-7789,37,"2_De 31 a 40 años",185,-58.46,-34.71
+137,"Mario Federico Suarez","Yapeyu E/ Avellaneda Y Obligado 555",4251-8973,49,"3_De 41 a 50 años",50,58.29,34.71
+1370,"Juan Martin Frachia","Champalanne E/ L.De Vegay Sanchez 2608  Barrio Los Generales",4283-3856,28,"1_Hasta 30 años",257,-58.44,-34.75
+1371,"Luis Alfredo Fraga","G.De Franc E/L.De Vera Y Belen 2520  Barrio La Loma",4273-2961,15,"1_Hasta 30 años",185,-58.44,-34.75
+1372,"Alvaro Jose Franca","Av.Eva Peron 4687",4260-4480,26,"1_Hasta 30 años",258,-58.34,-34.75
+1373,"Eduardo Jorge Franco","Bello E/ Azamor Y Natal 2763",4273-4497,22,"1_Hasta 30 años",185,-58.47,-34.72
+1374,"Maria Del Carmen Franco","Campana 360  Villa Fiorito",4267-4832,65,"5_Desde 60 años",181,-58.44,-34.71
+1375,"Juan Franco","Figueredo Y Cno.Negro 1525  Pte. La Noria",4273-5759,43,"3_De 41 a 50 años",185,-58.46,-34.71
+1376,"Miguel Angel Franco","Voltaire E/Copihue Y Valparaiso 1650  Santa Marta",4273-4538,55,"4_De 51 a 60 años",185,-58.45,-34.75
+1377,"Leonel Franzoni","Mercedes Y Doyhenard 1100",4214-4079,33,"2_De 31 a 40 años",259,-58.42,-34.81
+1378,"Luis Alfredo Fratti","Pio Baroja E/ Recondo Y Ayolas 2098",4276-3675,33,"2_De 31 a 40 años",181,-58.45,-34.71
+1379,"Franco Freducci","La Haya Y Ricardo Palma   Barrio F.Quiroga",,52,"4_De 51 a 60 años",185,-58.45,-34.73
+138,"Julio Cesar Suarez","Urquiza 1197",4254-2798,23,"1_Hasta 30 años",47,-58.27,-34.73
+1380,"Carlos Freira","B.De Irigoyen E/14 De Julio Y Anchoren 750",4245-5480,45,"3_De 41 a 50 años",258,-58.39,-34.77
+1381,"Cesar Augusto Freire","G. Miro Y Ostende 944  Villa Maipu",4267-6042,57,"4_De 51 a 60 años",241,-58.44,-34.72
+1382,"Heber Freitas","9 De Febrero Esq. Olleros 390",4298-6646,32,"2_De 31 a 40 años",259,-58.43,-34.79
+1383,"Mariela Rita Fresia","H Yrigoyen Y Suipacha 11518",4231-1413,23,"1_Hasta 30 años",260,-58.41,-34.79
+1384,"Gabriel Frugoni","Campos E/ Lamadrid Y Fonrouge 145",4245-7489,56,"4_De 51 a 60 años",257,-58.38,-34.76
+1385,"Flavio Fuccaro","Pareja Y Santos Vega S/N  Barrio Los Pinos",4298-9537,46,"3_De 41 a 50 años",259,-58.43,-34.81
+1386,"Luis Nicolas Fuccaro","F.Sanchez E/Castro Y Ribero S/N  La Loma",4283-3861,47,"3_De 41 a 50 años",257,-58.44,-34.75
+1387,"Jaime Fuentes","L.Siciliano Y Gordillo 1551",4267-4109,31,"2_De 31 a 40 años",241,-58.43,-34.74
+1388,"Daniel Fuentes","Bucarest 1780  Barrio Gral Paz",4273-7814,51,"4_De 51 a 60 años",185,-58.45,-34.73
+1389,"Sergio Federico Fuica","Monteczuma E/Anchoris Y La Madreselva 400",4260-7297,47,"3_De 41 a 50 años",258,58.35,34.75
+139,"Annabela Suburu","Moreno 769",4253-1487,52,"4_De 51 a 60 años",46,-58.26,-34.73
+1390,"Sin Dato","Azamor E/ Larrazabal Y Mjurature 297",4276-2010,16,"1_Hasta 30 años",181,-58.44,-34.70
+1391,"Marianela Funtes","Hornero Y Concepcion 4975",4212-0491,23,"1_Hasta 30 años",258,-58.34,-34.75
+1392,"Mario Enrique Furtado","Celina L.De Minetto 1455",4276-3518,54,"4_De 51 a 60 años",241,-58.43,-34.74
+1393,"Anna Lucrecia Fusco","Ricardo Palma 2351  Lomas De Zamora",4273-7593,37,"2_De 31 a 40 años",185,-58.46,-34.72
+1394,"Betraiz Cristina Fynn","Oran Y Ostende 599  Paraje Villa La Madrid",4273-8192,55,"4_De 51 a 60 años",185,-58.48,-34.73
+1395,"Juan Antonio Gabito","Nuã?Ez De Arce 1296  Fiorito",4267-4473,52,"4_De 51 a 60 años",241,-58.44,-34.72
+1396,"Juan Ernesto Gadea","B.P.Galdos E/ Ayolas Y Quesada 1998  Ã§fiorito",4267-3936,30,"1_Hasta 30 años",181,-58.45,-34.71
+1397,"Gerardo Daniel Gadea","Bucarest 1722  Barrio Gral.Paz",4273-7769,29,"1_Hasta 30 años",185,-34.73,-58.45
+1398,"Daniel Rodney Gadola","Manuel Castro 990",4248-4123,41,"3_De 41 a 50 años",185,-58.40,-34.75
+1399,"Maria Margarita Gagliano","Lavalle (E/ Rivadavia Y Francia) 241",42-0191,51,"4_De 51 a 60 años",248,-59.12,-34.56
+14,"Beatriz Roma Sarubbi","Ruta 205 Km. 54 S/n",49-1999,32,"2_De 31 a 40 años",26,-58.67,-34.98
+140,"Omar Julio Sueiro","Reaã?O Y Marcos Paz 6814  La Loma",4698-6642,28,"1_Hasta 30 años",56,-58.59,-34.76
+1400,"Miguel Angel Galan","Constitucion E/ Jujuy Y Entre Rios 2086",42-2288,18,"1_Hasta 30 años",248,-59.09,-34.57
+1401,"Marcelo Daniel Galarza","R.Moreno Y French 196",43-7725,23,"1_Hasta 30 años",248,-59.13,-34.57
+1402,"Gabriel Galland","L. Casey Y S. Piã?Eyro 17",42-9839,47,"3_De 41 a 50 años",248,-59.10,-34.59
+1403,"Eduardo Gallaretta","Ituzaingo E/ Italia Y Colon 440",43-7632,49,"3_De 41 a 50 años",248,-59.12,-34.57
+1404,"Heber Artemis Galli","Gã?Emes 1414",42-1181,41,"3_De 41 a 50 años",248,-59.10,-34.58
+1405,"Francisco Gustavo Gallinal","Humberto I Y Lavalle 878",42-0847,42,"3_De 41 a 50 años",248,-59.11,-34.57
+1406,"Matilde Veronica Gallinal","Republica Argentina 2852  Barrio San Francisco",43-0553,20,"1_Hasta 30 años",248,-59.14,-34.55
+1407,"Fernando Emiliano Gamarra","Centenario Y Sarmiento 407  Paraje Jauregui",49-7357,61,"5_Desde 60 años",261,-59.17,-34.60
+1408,"Jorge Luis Gamarra","Alsina (E/Urquiza I Y Urquiza Ii) 1900",43-3997,29,"1_Hasta 30 años",248,-59.12,-34.58
+1409,"Rodolfo Hugo Gambini","Ruta 192 Km 0,500 S/n",43-8058,46,"3_De 41 a 50 años",248,-59.13,-34.55
+141,"Dora Szafir","Sin Dato",4690-6533,19,"1_Hasta 30 años",57,0.00,0.00
+1410,"Adolfo Carlos Gamou","J. M. Estrada Y Tropero Moreira 919  Jauregui",49-8352,27,"1_Hasta 30 años",262,-59.18,-34.57
+1411,"Ma.Del Carmen Gandara","Espora Esq. Pellegrini 908  Jauregui - Barrio Loreto",49-7350,35,"2_De 31 a 40 años",261,-59.17,-34.61
+1412,"Jorge Gandini","Caseros (Esq. De La Virgen) 1491  Barrio El Mirador",43-8057,28,"1_Hasta 30 años",248,-59.10,-34.56
+1413,"Hugo Gandoglia","Esteban Echeverria 925  Barrio San Bernardo",43-8056,18,"1_Hasta 30 años",248,-59.11,-34.56
+1414,"Alvaro Gandolfo","El Picaflor S/N  Barrio San Antonio",42-7508,42,"3_De 41 a 50 años",248,-59.13,-34.60
+1415,"Hector Garbarino","Jose Ingenieros Y Ameghino S/N  Barrio Ameghino",42-7770,40,"2_De 31 a 40 años",248,-59.08,-34.56
+1416,"Jose Claudio Garchitorena","Avenida Espaã?A 801",43-7618,62,"5_Desde 60 años",248,-59.11,-34.57
+1417,"Ma. Del Rosario Pomp Garcia","San Lorenzo 1100",4768-1399,24,"1_Hasta 30 años",135,-58.55,-34.54
+1418,"Carlos Mario Garcia","R.E.De San Martin Y Azurduy 692",485-1096,17,"1_Hasta 30 años",195,-58.97,-34.61
+1419,"Fernando Garcia","J.Hernandez E/ T. Encina Y Storni S/N  Las Malvinas",484-2954,47,"3_De 41 a 50 años",195,-58.92,-34.61
+142,"Samuel Sztern","9 De Julio Esq. 3 De Febrero 1327",4744-6217,46,"3_De 41 a 50 años",58,-58.56,-34.44
+1420,"Javier Fernando Garcia","Ayub Khan Y Manuela Gomez S/N  Barrio Pque.Irigoyen",485-2035,22,"1_Hasta 30 años",195,-58.97,-34.60
+1421,"Mario Luis Garcia","Acceso Oeste Km 46 Y Caseros S/N  Barrio Agua De Oro",487-4108,54,"4_De 51 a 60 años",195,-58.89,-34.61
+1422,"Alberto Adhemar Garcia","Juan. Linera 1161  La Fraternidad",486-0509,37,"2_De 31 a 40 años",195,-59.00,-34.60
+1423,"Ruben Hector Garcia","Calle Azuay Y Blas Pascal 941  Barrio Gã?Emes",487-3037,60,"4_De 51 a 60 años",195,-58.89,-34.63
+1424,"Eris Eduardo Garcia","J.Hernandez /Ingenieros Y S.Roque(906) 752",485-3425,23,"1_Hasta 30 años",195,-58.93,-34.62
+1425,"Mario Garcia","Gral. Sarmiento Y Ecuador S/N  Barrio Los Aromos",485-1908,21,"1_Hasta 30 años",195,-58.90,-34.59
+1426,"Beatriz Del Lujan Garcia","H.Yrigoyen 965",485-0344,20,"1_Hasta 30 años",195,-58.95,-34.60
+1427,"Ana Maria Garcia","Mitre E/ Sarmiento Y Avellaneda 144",477-1035,24,"1_Hasta 30 años",30,-58.84,-34.78
+1428,"Angel Humberto Garcia","Dr. Marcos Paz E/ Corrientes Y Misio. 764  La Recoba",477-0333,42,"3_De 41 a 50 años",30,-58.83,-34.77
+1429,"Jorge Washington Garcia","San Martin E/ Esmeralda Y Pueyrredon 865  Barrio Cuatro Esquinas",477-5907,23,"1_Hasta 30 años",30,-58.84,-34.78
+143,"Osvaldo Roberto Tabacchi","Av. Libertador Gral. San Martin 263",4744-5616,58,"4_De 51 a 60 años",58,-58.56,-34.43
+1430,"Ricardo Jose Garcia","Dr.Marcos Paz E/ Cavallo Y Leavy 3444  Barrio Gandara",477-5914,26,"1_Hasta 30 años",30,-58.85,-34.80
+1431,"Cristina Garcia","Pueyrredon E/ Paz Y Roca 3016  El Palenque",477-5900,46,"3_De 41 a 50 años",30,-58.85,-34.78
+1432,"Luis Ignacio Garcia","Scalabrini Ortiz Esq. El Domador S/N  Barrio Los Aromos",477-5090,35,"2_De 31 a 40 años",30,-58.81,-34.76
+1433,"Daniel Eduardo Garcia","Berutti Y El Estilo S/N  Barrio Rayo De Sol",499-0039,23,"1_Hasta 30 años",30,-58.80,-34.75
+1434,"Mario Garcia","Crucero G.Belgrano E/Irigoyen Y Cntrio 1705  Barrio La Trocha",477-5935,46,"3_De 41 a 50 años",30,-58.83,-34.79
+1435,"Jose Alejandro Garcia","Roldan Y A.Troilo 488  Barrio El Zorzal",499-4635,44,"3_De 41 a 50 años",30,-58.81,-34.74
+1436,"Luis Alberto Garcia","Hipolito Yrigoyen 2462",4651-1800,17,"1_Hasta 30 años",179,-58.56,-34.68
+1437,"Maria Del Rosario Garcia","Humaita Y Altolaguirre 1394",4462-4470,37,"2_De 31 a 40 años",263,-58.51,-34.70
+1438,"Raul Gustavo Garcia","Gaona Y Monteagudo 2335",4658-0675,20,"1_Hasta 30 años",264,-58.56,-34.64
+1439,"Edgar Daniel Garcia","Avda De Mayo E/ Alsina Y Rosales 262",4658-1892,23,"1_Hasta 30 años",264,-58.56,-34.64
+144,"Hector Valentin Tacon","Darragueira 2277",4714-1890,36,"2_De 31 a 40 años",59,-58.59,-34.47
+1440,"Analía Garcia","Ogorman E/ Savia Y Campos 1550",4454-8426,39,"2_De 31 a 40 años",265,-58.51,-34.67
+1441,"Carlos Garcia","Deseado E/ Lezica Y F. Alcorta 3774  Villa Constructora",4691-3861,63,"5_Desde 60 años",179,-58.56,-34.70
+1442,"Luis Gerardo Garcia","Av.Crovara Y Colon 1099",4652-3573,32,"2_De 31 a 40 años",265,-58.51,-34.68
+1443,"Gary Hector Garcia","Av.Crovara Y Argentina 3127",4652-9150,55,"4_De 51 a 60 años",265,-58.53,-34.69
+1444,"Carlos Garcia","Pedernera Y Rivera 1301",4652-4472,64,"5_Desde 60 años",249,-58.50,-34.68
+1445,"Jose Maria Garcia Da Rosa","General Guido Y 11 De Setiembre 1022  Lomas D.Millon",4657-5088,42,"3_De 41 a 50 años",264,-58.54,-34.65
+1446,"Daniel Rogelio Garcia Pintos","Valle Y Puerto Argentino S/n",43-6240,54,"4_De 51 a 60 años",67,-58.65,-34.77
+1447,"Milka Giovanna Gardela","Urquiza Y Felipe Iannone 1028",4656-9175,27,"1_Hasta 30 años",264,-58.57,-34.65
+1448,"Napoleon Gardiol","Talcahuano Y Olavarria 893",4442-3100,57,"4_De 51 a 60 años",249,-58.50,-34.69
